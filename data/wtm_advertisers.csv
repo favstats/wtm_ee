@@ -55,9 +55,6 @@ fa089b01-8f05-4087-883c-74554a324495,Jaan Toots,2023-02-07T15:05:00.909Z,a8df1bb
 80dc8d4d-59a6-4f81-adb1-3634ed7b404f,Lääne-Virumaa Sotsiaaldemokraadid,2023-02-12T10:51:57.567Z,12d8275c-99c3-4dc3-b724-485462dba366,SDE,Estonia,ee,1817727871852381,Lääne-Virumaa Sotsiaaldemokraadid,Facebook
 0fa61d32-5d10-465f-97ef-cda97f372e2c,Sotsiaaldemokraadid Pärnumaal,2023-02-07T15:05:01.440Z,0c44755b-5945-46dc-afd6-0a6c96c005c5,SDE,Estonia,ee,554969128042157,Sotsiaaldemokraadid Pärnumaal,Facebook
 6d1a106e-4862-4de7-8905-e231705c771a,Karl Aaron Adson,2023-02-07T15:05:01.091Z,c67512c1-25f9-4e2a-8653-27c10aa21689,E200,Estonia,ee,104268148481911,Karl Aaron Adson,Facebook
-ae03a706-85b3-4851-a128-70095e894056,Matti Silla,2023-02-07T15:05:00.763Z,aa97bb14-bee6-4e75-a283-4c72e4388348,EKRE,Estonia,ee,120234997635119,Matti Silla,Facebook
-0633f45e-9396-4375-9027-8b3b3d8b1f8f,Kagu-Eesti sotsid ja sõbrad,2023-02-08T05:55:40.722Z,826f6187-dc94-4cc0-bf02-8b8632ff3fac,SDE,Estonia,ee,1833095483677090,Kagu-Eesti sotsid ja sõbrad,Facebook
-0f43896c-bb0d-4aee-8a70-516780414404,Eesti Konservatiivne Rahvaerakond,2022-08-16T15:24:29.355Z,fd0c00f3-54fc-4125-a645-0331a10aeec0,EKRE,Estonia,ee,671308106236480,Eesti Konservatiivne Rahvaerakond,Facebook
 58dc0f70-b87d-4fbf-ba2a-6fd6f95cd1e1,Palle Kõlar,2023-02-07T15:05:01.231Z,5442687d-7eaf-41eb-9ac5-f878b76abac1,EKRE,Estonia,ee,110302371945546,Palle Kõlar,Facebook
 9e834cec-3931-44f0-9c6f-f5d4be4de353,Marika Saar,2023-02-07T15:05:01.091Z,a0af350a-11fd-45dc-aaf6-e3d29de0d917,SDE,Estonia,ee,2221345161456177,Marika Saar,Facebook
 ea46f825-b618-4d87-bb32-57ecf6aede74,Evelin Poolamets,2023-02-07T15:05:01.349Z,6659392b-041b-4f53-ab13-8987d46230fa,EKRE,Estonia,ee,358692998309693,Evelin Poolamets,Facebook
@@ -76,43 +73,44 @@ b5debdb2-8fec-41e2-b455-abc0633101e2,Maksim Iljin,2023-02-07T15:05:01.572Z,79572
 a3d433bf-3858-4839-9e3c-ddbda6fe42f3,Natalie Mets,2023-02-12T10:51:57.614Z,e663d4e7-a7ac-4ec3-a859-40cadc8b7ed5,SDE,Estonia,ee,105507178222203,Natalie Mets,Facebook
 e7401c76-b934-4d96-91b9-9c4d1d7bb612,Kai Rimmel EKRE Harju- ja Raplamaa Riigikogu kandidaat,2023-02-10T10:52:13.192Z,a541fe65-38a5-4e9b-8f9c-d71018115644,EKRE,Estonia,ee,955490071318721,Kai Rimmel EKRE Harju- ja Raplamaa Riigikogu kandidaat,Facebook
 29089c19-2983-40a9-bc2c-1f3aa8cc50f6,Mait Allas,2023-02-07T15:05:01.843Z,3ecede2b-2d23-422d-91ab-fded02307a82,RE,Estonia,ee,117518784560961,Mait Allas,Facebook
+ae03a706-85b3-4851-a128-70095e894056,Matti Silla,2023-02-07T15:05:00.763Z,aa97bb14-bee6-4e75-a283-4c72e4388348,EKRE,Estonia,ee,120234997635119,Matti Silla,Facebook
 aaf0e101-246f-4114-b172-c35d4295bd6c,Taavi Tuvike 1022,2023-02-13T10:52:16.475Z,5085e5e8-5526-4e57-ae16-ee6977479bcd,K,Estonia,ee,100427982979678,Taavi Tuvike 1022,Facebook
 64c57004-4f5d-4fe8-b0b5-ae8c9a654835,Merle Kivest EKRE,2023-02-07T15:05:01.924Z,081e9fee-42d2-412b-8181-abee88648531,EKRE,Estonia,ee,251974038644412,Merle Kivest EKRE,Facebook
 fdcce583-6105-4857-a26d-1b87e43a4670,Александр Чаплыгин,2023-02-08T05:55:40.502Z,eb2f0914-3637-4f16-8802-3d7d92af6227,K,Estonia,ee,103284719037703,Александр Чаплыгин,Facebook
 a1c2bf00-833b-470a-8b99-c8783f6fd3d4,Andro Roos - 1008 Tartu linn,2023-02-08T05:55:40.653Z,0a9a6be2-8b7e-4455-82af-929fea306b98,K,Estonia,ee,106100704830144,Andro Roos - 1008 Tartu linn,Facebook
 4c7586f3-26f6-4c7a-8854-5047c087b2ea,Helen Rebane,2023-02-09T06:26:33.125Z,5e7dc5ed-c886-430a-9606-668df5858b3b,EKRE,Estonia,ee,104007235879189,Helen Rebane,Facebook
+0633f45e-9396-4375-9027-8b3b3d8b1f8f,Kagu-Eesti sotsid ja sõbrad,2023-02-08T05:55:40.722Z,826f6187-dc94-4cc0-bf02-8b8632ff3fac,SDE,Estonia,ee,1833095483677090,Kagu-Eesti sotsid ja sõbrad,Facebook
 8269744a-e69b-43af-9556-dd966bbec4b3,Daniel Mereäär,2023-02-08T05:55:40.602Z,70921c33-b1d9-4c18-bbfa-ebcc6dbb68d7,EKRE,Estonia,ee,348822362385433,Daniel Mereäär,Facebook
 5a91ef24-6a20-4779-aa7c-23937f23985f,Kadri Tali,2023-02-09T06:26:33.124Z,a80239b8-3fdb-4893-be11-033958cfcfda,E200,Estonia,ee,794578140901673,Kadri Tali,Facebook
-d47d9d60-8947-4c29-b641-147ff55fde12,Timo Nikitin,2023-02-17T10:51:55.901Z,37d78daa-a8a1-447a-ac2b-a3d4f0620fe2,E200,Estonia,ee,101763649512374,Timo Nikitin,Facebook
+0f43896c-bb0d-4aee-8a70-516780414404,Eesti Konservatiivne Rahvaerakond,2022-08-16T15:24:29.355Z,fd0c00f3-54fc-4125-a645-0331a10aeec0,EKRE,Estonia,ee,671308106236480,Eesti Konservatiivne Rahvaerakond,Facebook
 78c1c894-92d2-459f-8053-220f433b790b,Kaupo Männiste,2023-02-16T10:52:05.206Z,f1561516-2d35-4563-9420-6ccefe90e45f,EKRE,Estonia,ee,108434078252719,Kaupo Männiste,Facebook
 9ac49bb9-e71f-454c-82ec-9d9286c903a3,Anti Haugas,2023-02-10T10:52:13.212Z,1b321d82-2251-4953-94f8-06cf96b8b5f3,RE,Estonia,ee,392956437472363,Anti Haugas,Facebook
 6f4b1a44-277f-48cf-aa5c-5fb72d5a8cfb,Maris Hellrand,2023-02-07T15:05:01.324Z,044e1da6-feb9-4dee-932d-6ecd81398b69,SDE,Estonia,ee,110830431233885,Maris Hellrand,Facebook
-6b4ed9a6-b565-482d-aaaf-b93ffa20af5d,Elmo Somelar,2023-02-11T10:51:51.208Z,f21fd135-68b5-45d4-b989-9dda336c08ca,OTH,Estonia,ee,113399244994268,Elmo Somelar,Facebook
-5c2e5b99-96c8-4b5b-a2a5-b284fc5a54ff,Timur Sagitov,2023-02-16T10:52:05.386Z,18ead7a8-22a6-44ea-808f-cc24d8ab1e2c,OTH,Estonia,ee,1670592216347342,Timur Sagitov,Facebook
+d47d9d60-8947-4c29-b641-147ff55fde12,Timo Nikitin,2023-02-17T10:51:55.901Z,37d78daa-a8a1-447a-ac2b-a3d4f0620fe2,E200,Estonia,ee,101763649512374,Timo Nikitin,Facebook
 cf03f8a8-4300-443a-946d-be295a79c4f3,Anti Poolamets - poliitik,2023-02-08T05:55:40.731Z,0dbe6b42-acc6-40be-8bee-b174ca9da0b2,EKRE,Estonia,ee,1532805486974348,Anti Poolamets - poliitik,Facebook
 ad0ea927-09a6-466f-8acf-03896e441ec4,Neeme Väli,2023-02-10T10:52:13.123Z,a3a4b52c-7355-40af-94d7-7bfabcb583ea,K,Estonia,ee,113339361651938,Neeme Väli,Facebook
+6b4ed9a6-b565-482d-aaaf-b93ffa20af5d,Elmo Somelar,2023-02-11T10:51:51.208Z,f21fd135-68b5-45d4-b989-9dda336c08ca,OTH,Estonia,ee,113399244994268,Elmo Somelar,Facebook
 de9a872c-5f2b-4149-852f-a3b5e8f9b601,Eeva Helme,2023-02-11T10:51:51.152Z,d25484d6-d957-4e2e-8984-3f15580b48e5,EKRE,Estonia,ee,109738198583629,Eeva Helme,Facebook
 6a6b9f05-ec82-47db-aea3-a3d6497c2cb8,Tiit Terik,2023-02-13T10:52:16.378Z,d64c90b0-5568-450a-a923-f43283eb3155,K,Estonia,ee,197603360697785,Tiit Terik,Facebook
-3f74c557-371d-4795-bced-19c1fa7dd7c2,Tiit Maran,2023-02-12T10:51:57.765Z,849d6566-3677-4d0c-a786-fa0f8c36fb64,SDE,Estonia,ee,116515578012824,Tiit Maran,Facebook
-e3cd2bd2-2695-4c61-b20c-7c7699c15c8c,Silver Tambur,2023-02-07T15:05:00.764Z,d91a80e5-3638-463f-8a6c-265a52ee96d2,SDE,Estonia,ee,990223214491658,Silver Tambur,Facebook
+5c2e5b99-96c8-4b5b-a2a5-b284fc5a54ff,Timur Sagitov,2023-02-16T10:52:05.386Z,18ead7a8-22a6-44ea-808f-cc24d8ab1e2c,OTH,Estonia,ee,1670592216347342,Timur Sagitov,Facebook
 dbbecb0b-3774-4010-b2ae-242b7a64c621,Isamaaline Saaremaa,2023-02-19T10:52:20.509Z,066d7491-1a47-46da-9254-7d3a90d833d3,I,Estonia,ee,184949251879956,Isamaaline Saaremaa,Facebook
 586dc608-19a9-42cb-bb1a-c8702adde349,EKRE Mati Kuklane,2023-02-19T10:52:20.603Z,486eb440-0471-49c3-954f-852fa9545e71,EKRE,Estonia,ee,100714299048064,EKRE Mati Kuklane,Facebook
 fa2776d9-1a1d-43ca-958e-de9144631a0b,Зелёные Эстонии,2023-02-19T10:52:20.647Z,158fcb1c-d13a-4e14-82d4-a45ae0badf40,OTH,Estonia,ee,141733823126338,Зелёные Эстонии,Facebook
+3f74c557-371d-4795-bced-19c1fa7dd7c2,Tiit Maran,2023-02-12T10:51:57.765Z,849d6566-3677-4d0c-a786-fa0f8c36fb64,SDE,Estonia,ee,116515578012824,Tiit Maran,Facebook
 178fc8f3-f765-4c44-99f2-ab38f04e5da4,Peeter Võsu,2023-02-19T10:52:20.559Z,dea4df7e-4518-4111-b799-878b5a464007,I,Estonia,ee,173144512875202,Peeter Võsu,Facebook
-74440986-450a-4e8a-8943-a90e297c3287,Indrek Lillemägi - nr 670,2023-03-04T10:52:11.198Z,ae8cfd63-b2d9-4621-b334-caedfc706a70,E200,Estonia,ee,103416172695018,Indrek Lillemägi - nr 670,Facebook
-9c79412d-995a-4529-9e53-41679840cc3a,Aadu Must nr 1006 Riigikokku,2023-03-04T10:52:11.161Z,1dfd8ee4-16a1-4f9e-a145-4295790e8b9c,K,Estonia,ee,1409493475930421,Aadu Must nr 1006 Riigikokku,Facebook
-25afd673-59c2-445f-8b17-dc36e0af312e,Andrus Seeme,2023-03-04T10:52:11.139Z,27c41df8-5cc2-4b1b-a9d3-c0a6d6a76ea7,RE,Estonia,ee,2008852192525797,Andrus Seeme,Facebook
-0c19ff2d-863a-4330-802e-76bbc5c42c61,Maido Ruusmann #omakandimees,2023-03-03T10:52:06.062Z,2b445a09-1553-4e59-860a-30569c5d6ea8,RE,Estonia,ee,908837772620160,Maido Ruusmann #omakandimees,Facebook
+e3cd2bd2-2695-4c61-b20c-7c7699c15c8c,Silver Tambur,2023-02-07T15:05:00.764Z,d91a80e5-3638-463f-8a6c-265a52ee96d2,SDE,Estonia,ee,990223214491658,Silver Tambur,Facebook
 6b7dc4e8-5216-40d0-87a9-4f70b9cea3fb,NaiRe,2023-03-04T10:52:11.133Z,2cece165-8d9f-48d1-9220-dac6d6541d0a,RE,Estonia,ee,101991676530778,NaiRe,Facebook
 9e6aaf70-7525-4db6-833b-9b43579e8bfe,Jõelähtme Reformierakond,2023-03-02T10:52:04.591Z,317bfcc1-71de-45c3-8e2c-4992ae4e57e7,RE,Estonia,ee,172347382956433,Jõelähtme Reformierakond,Facebook
 be1c0e65-8f39-4330-a8ea-dff6e94cee2a,Vadim Belobrovtsev,2023-03-04T10:52:10.995Z,747af0a5-7470-4cdc-ae03-88e663474fcb,K,Estonia,ee,523475997846852,Vadim Belobrovtsev,Facebook
+74440986-450a-4e8a-8943-a90e297c3287,Indrek Lillemägi - nr 670,2023-03-04T10:52:11.198Z,ae8cfd63-b2d9-4621-b334-caedfc706a70,E200,Estonia,ee,103416172695018,Indrek Lillemägi - nr 670,Facebook
 7ae655a8-baf2-41f2-bedd-c7276c1e950e,Agnes Pulk - Pärnumaa Riigikogu kandidaat,2023-02-20T10:52:05.890Z,0d809065-54d7-4e62-85c0-276482464567,EKRE,Estonia,ee,795734247448002,Agnes Pulk - Pärnumaa Riigikogu kandidaat,Facebook
 ee8ed4be-487e-42e6-b221-4546d0c1dbef,Marek Jürgenson,2023-03-03T10:52:05.955Z,49cec782-fcd3-43a8-9af3-1e048f8aa0df,K,Estonia,ee,298050340671487,Marek Jürgenson,Facebook
+9c79412d-995a-4529-9e53-41679840cc3a,Aadu Must nr 1006 Riigikokku,2023-03-04T10:52:11.161Z,1dfd8ee4-16a1-4f9e-a145-4295790e8b9c,K,Estonia,ee,1409493475930421,Aadu Must nr 1006 Riigikokku,Facebook
 0338ff4b-5bf2-4498-819c-599723845dec,Fridays For Future Eesti,2023-02-19T10:52:20.766Z,b06e445b-4aaa-4c02-a1e9-572fb7d58531,OTH,Estonia,ee,2676936755656473,Fridays For Future Eesti,Facebook
+25afd673-59c2-445f-8b17-dc36e0af312e,Andrus Seeme,2023-03-04T10:52:11.139Z,27c41df8-5cc2-4b1b-a9d3-c0a6d6a76ea7,RE,Estonia,ee,2008852192525797,Andrus Seeme,Facebook
 8cdd8c90-f71e-443e-bc4b-aa36ab17c432,Kirill Avdejev,2023-03-03T10:52:05.735Z,4d156c1a-55f3-4266-83b4-6271efba2294,K,Estonia,ee,151654798762549,Kirill Avdejev,Facebook
 2255297e-e2d3-4d3a-86c8-9d1a92a44b89,Isamaaline Pärnumaa,2023-03-02T10:52:04.724Z,d711e7a4-2c02-4ddd-82ae-aa9c560d31bc,I,Estonia,ee,1404462666434271,Isamaaline Pärnumaa,Facebook
-9fcd8e97-c03b-4982-a691-2aa9120d5b8a,Eve Altrov - Tallinnas,2023-02-28T10:52:13.583Z,02c5d682-aed1-45e0-b130-d34c995649bd,RE,Estonia,ee,108782794903404,Eve Altrov - Tallinnas,Facebook
-3d5a4f68-a17c-4a14-9887-fb8ddcd0fa08,Ismail Mirzojev,2023-03-01T10:52:01.976Z,6b3e2ba5-f9ae-4724-a188-a1cc88a8a4f6,K,Estonia,ee,665042497227056,Ismail Mirzojev,Facebook
+0c19ff2d-863a-4330-802e-76bbc5c42c61,Maido Ruusmann #omakandimees,2023-03-03T10:52:06.062Z,2b445a09-1553-4e59-860a-30569c5d6ea8,RE,Estonia,ee,908837772620160,Maido Ruusmann #omakandimees,Facebook
 4f5002a4-0927-4398-b77c-ea18120562bb,Isamaa Ida-Virumaa,2023-03-05T10:52:14.083Z,6c6d910d-a1a2-4981-82fd-e41fec4e4130,I,Estonia,ee,549973401844951,Isamaa Ida-Virumaa,Facebook
 1b78ef82-67c1-4d2c-8903-ce4246721cc5,Ken Vaher - EKRE Pärnumaa Riigikogu kandidaat,2023-03-05T10:52:14.105Z,9ac73e20-e98f-4065-aeb2-88c3e830770b,EKRE,Estonia,ee,244981497429586,Ken Vaher - EKRE Pärnumaa Riigikogu kandidaat,Facebook
 1fd4a086-3e47-4fd8-8ca8-eaa4d2df9101,Isamaa Naiskogu IREN,2023-03-05T10:52:14.026Z,13aa7daa-40e1-4ad4-b975-02eec8d32025,I,Estonia,ee,357528791024055,Isamaa Naiskogu IREN,Facebook
@@ -314,210 +312,218 @@ c2b9b3aa-aceb-4724-9137-5558944414e8,Jüri Ratas,2023-01-10T09:29:38.291Z,1429aa
 2f7db571-cf5e-44ad-9816-ffec7329d8e9,Reformierakond Viljandimaal,2023-03-08T18:58:32.633Z,99b94c6f-65f4-4a6e-89b3-5642719b6cf0,RE,Estonia,ee,502220523297084,Reformierakond Viljandimaal,Facebook
 ba5ff124-1390-4bf6-a871-2c2b90ad8502,Reformierakond Tõrva vallas,2023-03-08T19:09:17.337Z,d58840fd-05b5-4d8b-b761-0dded1d7761d,RE,Estonia,ee,1526873243991621,Reformierakond Tõrva vallas,Facebook
 1ad7afe7-4fb3-4a63-b1af-6bd7c3e92ea6,Reformierakond Tapa vallas,2024-02-16T06:03:43.364Z,a5615af6-625c-4194-b10a-77660b2f80b8,RE,Estonia,ee,112902721916974,Reformierakond Tapa vallas,Facebook
+9fcd8e97-c03b-4982-a691-2aa9120d5b8a,Eve Altrov - Tallinnas,2023-02-28T10:52:13.583Z,02c5d682-aed1-45e0-b130-d34c995649bd,RE,Estonia,ee,108782794903404,Eve Altrov - Tallinnas,Facebook
+3d5a4f68-a17c-4a14-9887-fb8ddcd0fa08,Ismail Mirzojev,2023-03-01T10:52:01.976Z,6b3e2ba5-f9ae-4724-a188-a1cc88a8a4f6,K,Estonia,ee,665042497227056,Ismail Mirzojev,Facebook
 6986d0c4-e63e-4b9a-b198-319c14af41df,Elu24,2023-01-10T09:29:37.715Z,ed5b1ce2-d4f5-479c-be1c-c3d3e3602368,ZZZ,Estonia,ee,115982931763745,Elu24,Facebook
+e49f6749-38df-4c32-9e18-4e35ef8554c4,Keskkonnatunnustused,2023-01-10T09:29:40.305Z,bd904d27-1eef-4622-b75f-2df5fb809ca1,ZZZ,Estonia,ee,511072459031336,Keskkonnatunnustused,Facebook
 5f8119ee-b243-49ab-a006-f1d8b79b8983,Postimees,2023-01-10T09:29:37.729Z,df79de39-2674-4e95-85a8-275e25a9be5b,ZZZ,Estonia,ee,115634898452178,Postimees,Facebook
 3196b58d-180c-451f-a7f9-f7ef801b8aef,Levila,2023-01-10T09:29:37.729Z,1b8fa6ce-8848-4a47-8b98-475c230c6f41,ZZZ,Estonia,ee,102161268031662,Levila,Facebook
-0ef576e0-c21f-4487-af91-f3ead2371672,Pärna Kliinik,2023-01-10T09:29:37.753Z,e1b1b189-e583-456e-9710-dc867c3a89f1,ZZZ,Estonia,ee,483401811674537,Pärna Kliinik,Facebook
-ad04e75f-a6d8-4eb6-a18f-193f40f69d4c,Raamatupidaja.ee,2023-01-10T09:29:37.852Z,068d0d2d-7c11-4fe6-aff8-e1aa5aa70404,ZZZ,Estonia,ee,114004685304193,Raamatupidaja.ee,Facebook
-e2678391-3ab1-4961-9e3f-46b2a51210be,Fermi Energia,2023-01-10T09:29:37.852Z,a407585f-93a7-49f8-a269-3adeee1e2399,ZZZ,Estonia,ee,468873137208405,Fermi Energia,Facebook
-5fc36b08-1f51-4956-aaf1-95c0a5050e19,Teeviit,2023-01-10T09:29:37.895Z,9ccc89e4-034c-45bb-8680-b90533c5490b,ZZZ,Estonia,ee,112544832109986,Teeviit,Facebook
-8aee14c8-5939-4050-b236-3998a5305c34,Edasi.org,2023-01-10T09:29:37.899Z,e7958444-984f-4531-a254-a4a619453789,ZZZ,Estonia,ee,165505543854570,Edasi.org,Facebook
-0ea2560c-73bf-4909-8e90-fde96335c4f1,Impact Day,2023-01-10T09:29:37.912Z,8914220f-b7d9-4c61-8ca2-860fda759f47,ZZZ,Estonia,ee,100559619297935,Impact Day,Facebook
-b149999c-aba2-413f-89d9-dade48986f0d,Rus.Postimees,2023-01-10T09:29:37.912Z,4233f4bc-4f58-45de-89c3-35d41375db92,ZZZ,Estonia,ee,143433035688531,Rus.Postimees,Facebook
-86ae0385-28fb-4e0e-8a41-a8a881c7955b,Ядерная энергетика Эстонии,2023-01-10T09:29:37.913Z,272a6c12-a1ff-4c4f-9b27-1e84916103f2,ZZZ,Estonia,ee,109504878012353,Ядерная энергетика Эстонии,Facebook
-7bb3d8da-d5c1-4185-be03-68c9527c7147,Meditsiiniuudised,2023-01-10T09:29:37.934Z,d669aaa7-05da-48d5-b162-c00e04424735,ZZZ,Estonia,ee,440576492694989,Meditsiiniuudised,Facebook
-00a3b6e3-a559-41b6-91d2-d8ebfeb70213,RMK,2023-01-10T09:29:37.952Z,d50cfe78-8161-4153-9bca-b19741b55d83,ZZZ,Estonia,ee,407479074907,RMK,Facebook
-8cce5720-e951-4da5-ad7f-14e6c390be56,Finantsuudised,2023-01-10T09:29:37.972Z,2aedff16-ba33-4433-b634-7c1ec949d7d9,ZZZ,Estonia,ee,399470273720579,Finantsuudised,Facebook
-19591a1f-3c33-4bb8-8e8e-3e64b3904cba,Eestimaa Looduse Fond,2023-01-10T09:29:37.974Z,f45f662e-2c10-460a-be67-ca0c1415ce1c,ZZZ,Estonia,ee,233123435884,Eestimaa Looduse Fond,Facebook
-4ae4aacd-bb19-4cf0-85ee-1388d9031f88,RMK по-русски,2023-01-10T09:29:37.979Z,298e5d13-7183-459d-975d-1122a700c2a4,ZZZ,Estonia,ee,162244807165070,RMK по-русски,Facebook
-1217d992-a36d-40e7-89e4-5a67d41af69f,Tööstusuudised.ee,2023-01-10T09:29:37.989Z,6bec333e-a9ad-48c7-897e-38eb0e82de7d,ZZZ,Estonia,ee,1473173919576991,Tööstusuudised.ee,Facebook
-17d64ad6-b6c9-4ef4-a777-caeb7b135bbe,Neste Eesti,2023-01-10T09:29:37.991Z,6c80ea40-5d19-463a-a9fd-8b2e6e7fae26,ZZZ,Estonia,ee,342680989248579,Neste Eesti,Facebook
-a78f6567-d612-48e3-bc18-dc1a817fd4bc,Pärnumaa,2023-01-10T09:29:37.993Z,8f4be5ac-cac9-4ce8-9dbe-a3c0f4560fbe,ZZZ,Estonia,ee,2031543620467797,Pärnumaa,Facebook
-a4c1a9dd-0d1b-4b2b-b70d-c5c222d667b6,Logistikauudised,2023-01-10T09:29:37.996Z,c2e960e0-e213-4233-89f8-e663f38ddddc,ZZZ,Estonia,ee,204385319601031,Logistikauudised,Facebook
-3cd27dd1-9cdb-4c99-b780-d01f4391694c,Ajujaht,2023-01-10T09:29:38.000Z,8d92286a-06c7-4a1d-8398-3d1ceb348ada,ZZZ,Estonia,ee,287291196414,Ajujaht,Facebook
-72d00b44-fa4f-4188-abf1-a0fdf188c670,Ehitusuudised,2023-01-10T09:29:38.019Z,bec182bc-d70e-4007-bf04-ddafcc5f2a9f,ZZZ,Estonia,ee,1626356987611766,Ehitusuudised,Facebook
-cfe35822-bdf8-44c6-87a1-3a26ef970b04,Lääne-Virumaa Uudised,2023-01-10T09:29:38.036Z,d317e008-40dd-41e5-b762-ad03f14e548a,ZZZ,Estonia,ee,107782984790166,Lääne-Virumaa Uudised,Facebook
-99550d69-c13d-47ef-94aa-7b823764a90a,Новости Таллинна,2023-01-10T09:29:38.070Z,20d6477a-03ca-47e0-8fa3-17ad9cc4df99,ZZZ,Estonia,ee,761617300679193,Новости Таллинна,Facebook
-1da43e3c-f07e-4c27-b80f-65d8f5db6675,Eesti Pank,2023-01-10T09:29:38.029Z,2accbfe3-82d8-4812-94b1-e99beeacf9c5,ZZZ,Estonia,ee,471684969530551,Eesti Pank,Facebook
-45c974c9-b7d2-4778-ae2d-884b918391b2,ITuudised,2023-01-10T09:29:38.054Z,9b3de089-c63d-4e2a-a5cb-91dbae06e65c,ZZZ,Estonia,ee,512805845411415,ITuudised,Facebook
-96fdfbaa-680e-4620-b1f3-9a80521a7a10,FoundME,2023-01-10T09:29:38.073Z,166735d4-4552-43ca-8060-2dc236882f7e,ZZZ,Estonia,ee,104416784453155,FoundME,Facebook
-79db4ebf-f93a-4256-86d1-cfc483d23663,kinnisvarauudised.ee,2023-01-10T09:29:38.089Z,e1473aee-83df-4196-b757-a7215b2378df,ZZZ,Estonia,ee,609033342446932,kinnisvarauudised.ee,Facebook
-20000b1b-f42d-4618-8d8f-d9e6e52fd36f,pollumajandus.ee,2023-01-10T09:29:38.118Z,8595acfd-a0ca-4188-84a7-b40d25f13a61,ZZZ,Estonia,ee,231298983701361,pollumajandus.ee,Facebook
-ea372393-362f-4eda-8852-0f4d0209bf57,Tallinna linn,2023-01-10T09:29:37.976Z,92b45eb0-5001-4974-bd10-5abc8ea3f3dc,ZZZ,Estonia,ee,971885476227076,Tallinna linn,Facebook
-5c96736f-3f60-4a69-a050-b3f0c923ebd2,Ajaleht Pealinn,2023-01-10T09:29:37.992Z,9829d4e2-1e65-431a-81a8-4123ecd20b44,ZZZ,Estonia,ee,877169915631595,Ajaleht Pealinn,Facebook
-835777f1-053c-4c08-9724-26d4c440a107,Palgauudised.ee,2023-01-10T09:29:38.119Z,331d4b21-5c24-4470-8759-839831f338fc,ZZZ,Estonia,ee,102853298269797,Palgauudised.ee,Facebook
-dd252f82-1e47-4596-886e-e647c870c4e2,ГОЛОС Маарду,2023-01-10T09:29:38.169Z,1114ea0c-8d2e-4de0-a856-61def488db9e,ZZZ,Estonia,ee,108255437477996,ГОЛОС Маарду,Facebook
-56066c7f-4b9e-423c-9e41-cfb0bbe2cd06,Tallinna Kunstihoone,2023-01-10T09:29:39.112Z,92566104-7b89-41f2-aae9-2507194fb0c9,ZZZ,Estonia,ee,444711145600076,Tallinna Kunstihoone,Facebook
-06872880-977f-4086-8718-29034e1d3ca8,Bolt,2023-01-10T09:29:39.156Z,19ee0948-2a44-47b4-b730-b2c5aa139e7b,ZZZ,Estonia,ee,1807922492788533,Bolt,Facebook
-f9f656ab-a2be-4bea-8fcd-fd45c26a1f2f,Le succès est l'un,2023-01-10T09:29:39.456Z,2aa67d40-204c-4617-af99-a5bcd3e87c66,ZZZ,Estonia,ee,102638065965552,Le succès est l'un,Facebook
-ca26b5bb-3921-4b78-b9ec-b6e3840752b7,Santa Maria,2023-01-10T09:29:39.851Z,8a8eb5c1-a3c0-4d23-8656-1bb2864b0331,ZZZ,Estonia,ee,452334264903478,Santa Maria,Facebook
-44c7c101-0d68-4f54-8cf7-b9cbe74e0822,Tallinna Pelgulinna Riigigümnaasium,2023-01-10T09:29:39.975Z,76a5b9a9-2cb1-4da4-979c-eb3ab970acc4,ZZZ,Estonia,ee,124845369777216,Tallinna Pelgulinna Riigigümnaasium,Facebook
-e49f6749-38df-4c32-9e18-4e35ef8554c4,Keskkonnatunnustused,2023-01-10T09:29:40.305Z,bd904d27-1eef-4622-b75f-2df5fb809ca1,ZZZ,Estonia,ee,511072459031336,Keskkonnatunnustused,Facebook
 f9f246f3-2b76-4460-8b62-400eb5d764f4,Refugee Action Initiative,2023-01-10T09:29:39.613Z,9d52a772-314b-48b7-b54c-a3ced981af5e,ZZZ,Estonia,ee,102232215851166,Refugee Action Initiative,Facebook
+0ef576e0-c21f-4487-af91-f3ead2371672,Pärna Kliinik,2023-01-10T09:29:37.753Z,e1b1b189-e583-456e-9710-dc867c3a89f1,ZZZ,Estonia,ee,483401811674537,Pärna Kliinik,Facebook
 44aaaee2-6b72-439a-a867-5d782eb78e9a,Kogukonna Stardikas,2023-01-10T09:29:39.751Z,8ae9615d-ba6c-472d-b954-ad96c5c5a1cc,ZZZ,Estonia,ee,108066701466088,Kogukonna Stardikas,Facebook
+ad04e75f-a6d8-4eb6-a18f-193f40f69d4c,Raamatupidaja.ee,2023-01-10T09:29:37.852Z,068d0d2d-7c11-4fe6-aff8-e1aa5aa70404,ZZZ,Estonia,ee,114004685304193,Raamatupidaja.ee,Facebook
 3d6242b3-d2b1-476a-b859-d8c3fd108416,The Legends Events,2023-01-10T09:29:39.792Z,3bd0dc02-35af-4cfc-8a36-15b678791ea1,ZZZ,Estonia,ee,232052090667579,The Legends Events,Facebook
+e2678391-3ab1-4961-9e3f-46b2a51210be,Fermi Energia,2023-01-10T09:29:37.852Z,a407585f-93a7-49f8-a269-3adeee1e2399,ZZZ,Estonia,ee,468873137208405,Fermi Energia,Facebook
 1720bc22-450b-4e0e-92c1-16d532354cd0,The Ehlers-Danlos Society,2023-01-10T09:29:40.640Z,9a05c589-734c-448e-a526-e9a7291b5c09,ZZZ,Estonia,ee,294028895335,The Ehlers-Danlos Society,Facebook
+5fc36b08-1f51-4956-aaf1-95c0a5050e19,Teeviit,2023-01-10T09:29:37.895Z,9ccc89e4-034c-45bb-8680-b90533c5490b,ZZZ,Estonia,ee,112544832109986,Teeviit,Facebook
 ffced8c5-a9d8-455f-9d7e-5208cc0a17f0,GIGOS,2023-01-10T09:29:40.732Z,bb99dbaf-e728-4589-8687-7fc7a6679906,ZZZ,Estonia,ee,1394433430864608,GIGOS,Facebook
+8aee14c8-5939-4050-b236-3998a5305c34,Edasi.org,2023-01-10T09:29:37.899Z,e7958444-984f-4531-a254-a4a619453789,ZZZ,Estonia,ee,165505543854570,Edasi.org,Facebook
 696050c5-ee53-4b62-9744-7ed0e65810ac,Diversity Hub,2023-01-10T09:29:40.816Z,02d9cae3-81b4-41bd-8498-f85576f50db9,ZZZ,Estonia,ee,774628972631676,Diversity Hub,Facebook
+0ea2560c-73bf-4909-8e90-fde96335c4f1,Impact Day,2023-01-10T09:29:37.912Z,8914220f-b7d9-4c61-8ca2-860fda759f47,ZZZ,Estonia,ee,100559619297935,Impact Day,Facebook
 e210bc8e-4daf-4d6c-a8ee-ffa496c1ccae,VAPF Group,2023-01-10T09:29:40.889Z,dbd5bcc1-a0e7-47c8-8c0b-30857cf3a9d8,ZZZ,Estonia,ee,2057655581214009,VAPF Group,Facebook
 310613aa-e578-4232-81f6-767d7641627c,magocorocomete,2023-01-10T09:29:41.555Z,2f705a18-bcb3-409d-a32d-d5fad4385659,ZZZ,Estonia,ee,104372528749645,magocorocomete,Facebook
+b149999c-aba2-413f-89d9-dade48986f0d,Rus.Postimees,2023-01-10T09:29:37.912Z,4233f4bc-4f58-45de-89c3-35d41375db92,ZZZ,Estonia,ee,143433035688531,Rus.Postimees,Facebook
+86ae0385-28fb-4e0e-8a41-a8a881c7955b,Ядерная энергетика Эстонии,2023-01-10T09:29:37.913Z,272a6c12-a1ff-4c4f-9b27-1e84916103f2,ZZZ,Estonia,ee,109504878012353,Ядерная энергетика Эстонии,Facebook
 c3143c07-dcb7-4ffa-a3b9-89985b817d28,Estonian World,2023-01-10T09:29:41.699Z,04f76468-39ae-42aa-9233-3f08b51ed984,ZZZ,Estonia,ee,349274718461272,Estonian World,Facebook
 727c7171-d06e-4b01-b320-50d21c47b586,UNIFYD,2023-01-10T09:29:41.812Z,337b9ecc-cc82-47da-b651-60bd353fef55,ZZZ,Estonia,ee,100771065462417,UNIFYD,Facebook
 305fe4f9-0ddd-477c-a286-47df19122335,TalTech Tehnoloogiakool,2023-01-10T09:29:38.616Z,7aa73e46-55bf-4921-9290-9180094f5e8b,ZZZ,Estonia,ee,844251262265228,TalTech Tehnoloogiakool,Facebook
+7bb3d8da-d5c1-4185-be03-68c9527c7147,Meditsiiniuudised,2023-01-10T09:29:37.934Z,d669aaa7-05da-48d5-b162-c00e04424735,ZZZ,Estonia,ee,440576492694989,Meditsiiniuudised,Facebook
 124d21cd-e34e-4ec7-b542-c41ff5a53f8e,Tanel Kiik,2023-01-10T09:29:38.235Z,a7072061-5706-4acc-8c11-b03d2d7e9166,ZZZ,Estonia,ee,848451318826273,Tanel Kiik,Facebook
+00a3b6e3-a559-41b6-91d2-d8ebfeb70213,RMK,2023-01-10T09:29:37.952Z,d50cfe78-8161-4153-9bca-b19741b55d83,ZZZ,Estonia,ee,407479074907,RMK,Facebook
 0c9c71e6-5fdc-40c8-adcf-cf6eb373a356,Tartu Ülikooli liikumislabor,2023-01-10T09:29:38.711Z,55e73635-ee00-4318-a776-e824a8825d9c,ZZZ,Estonia,ee,541546159335592,Tartu Ülikooli liikumislabor,Facebook
+8cce5720-e951-4da5-ad7f-14e6c390be56,Finantsuudised,2023-01-10T09:29:37.972Z,2aedff16-ba33-4433-b634-7c1ec949d7d9,ZZZ,Estonia,ee,399470273720579,Finantsuudised,Facebook
+19591a1f-3c33-4bb8-8e8e-3e64b3904cba,Eestimaa Looduse Fond,2023-01-10T09:29:37.974Z,f45f662e-2c10-460a-be67-ca0c1415ce1c,ZZZ,Estonia,ee,233123435884,Eestimaa Looduse Fond,Facebook
 59e68a57-c082-4d1f-9683-9d20dc0133b6,Terveilm,2023-01-10T09:29:38.429Z,be44acf4-fb74-4d25-a011-91ca07474949,ZZZ,Estonia,ee,70735295271,Terveilm,Facebook
+4ae4aacd-bb19-4cf0-85ee-1388d9031f88,RMK по-русски,2023-01-10T09:29:37.979Z,298e5d13-7183-459d-975d-1122a700c2a4,ZZZ,Estonia,ee,162244807165070,RMK по-русски,Facebook
 4a9c31f1-a7ff-47a0-a285-b1b133ff1810,Djecko official جيكو الفرنسيسو,2023-01-10T09:29:41.778Z,ae9d3772-a690-4831-9bdc-ec1d3f3fe749,ZZZ,Estonia,ee,115637490346169,Djecko official جيكو الفرنسيسو,Facebook
+1217d992-a36d-40e7-89e4-5a67d41af69f,Tööstusuudised.ee,2023-01-10T09:29:37.989Z,6bec333e-a9ad-48c7-897e-38eb0e82de7d,ZZZ,Estonia,ee,1473173919576991,Tööstusuudised.ee,Facebook
+17d64ad6-b6c9-4ef4-a777-caeb7b135bbe,Neste Eesti,2023-01-10T09:29:37.991Z,6c80ea40-5d19-463a-a9fd-8b2e6e7fae26,ZZZ,Estonia,ee,342680989248579,Neste Eesti,Facebook
 58cbe748-1532-4123-88e3-c3684c364463,ARTLIVE,2023-01-10T09:29:38.912Z,11824782-84bd-4836-b9ef-1fdf0418a27f,ZZZ,Estonia,ee,381604642592918,ARTLIVE,Facebook
+a78f6567-d612-48e3-bc18-dc1a817fd4bc,Pärnumaa,2023-01-10T09:29:37.993Z,8f4be5ac-cac9-4ce8-9dbe-a3c0f4560fbe,ZZZ,Estonia,ee,2031543620467797,Pärnumaa,Facebook
+a4c1a9dd-0d1b-4b2b-b70d-c5c222d667b6,Logistikauudised,2023-01-10T09:29:37.996Z,c2e960e0-e213-4233-89f8-e663f38ddddc,ZZZ,Estonia,ee,204385319601031,Logistikauudised,Facebook
 becd8be4-1e94-44a9-9bb1-5d66a2f96a51,ericedmeades,2023-01-10T09:29:39.938Z,4da7dd71-46bb-4630-b9f8-52e763d4dabd,ZZZ,Estonia,ee,100147392901201,ericedmeades,Facebook
+3cd27dd1-9cdb-4c99-b780-d01f4391694c,Ajujaht,2023-01-10T09:29:38.000Z,8d92286a-06c7-4a1d-8398-3d1ceb348ada,ZZZ,Estonia,ee,287291196414,Ajujaht,Facebook
 4f4ee583-e9e4-44bb-afc6-69e4b0889c29,Eesti disaini auhind BRUNO / Estonian design award BRUNO,2023-01-10T09:29:40.168Z,53dc5abe-f277-4249-acbb-285afcdf59ea,ZZZ,Estonia,ee,152161731470095,Eesti disaini auhind BRUNO / Estonian design award BRUNO,Facebook
 195faede-3063-4b56-b542-11e563fd2eb8,Feministeerium,2023-01-10T09:29:39.570Z,a5c81947-6315-45bb-b1fb-f937bdc28848,ZZZ,Estonia,ee,1520863404842907,Feministeerium,Facebook
+72d00b44-fa4f-4188-abf1-a0fdf188c670,Ehitusuudised,2023-01-10T09:29:38.019Z,bec182bc-d70e-4007-bf04-ddafcc5f2a9f,ZZZ,Estonia,ee,1626356987611766,Ehitusuudised,Facebook
+cfe35822-bdf8-44c6-87a1-3a26ef970b04,Lääne-Virumaa Uudised,2023-01-10T09:29:38.036Z,d317e008-40dd-41e5-b762-ad03f14e548a,ZZZ,Estonia,ee,107782984790166,Lääne-Virumaa Uudised,Facebook
 807a99a4-e687-49a8-b515-6b27fa42d769,Amazing  oi,2023-01-10T09:29:39.600Z,6c2aadcc-fda1-4034-b64b-ab39ff0880ea,ZZZ,Estonia,ee,102296115974980,Amazing  oi,Facebook
+99550d69-c13d-47ef-94aa-7b823764a90a,Новости Таллинна,2023-01-10T09:29:38.070Z,20d6477a-03ca-47e0-8fa3-17ad9cc4df99,ZZZ,Estonia,ee,761617300679193,Новости Таллинна,Facebook
 9ad431a4-f238-4381-b787-98a6c92100ef,Virumaa veed puhtaks,2023-01-10T09:29:39.794Z,e8db54a5-287c-47d7-880a-4633639ca38f,ZZZ,Estonia,ee,106977948011177,Virumaa veed puhtaks,Facebook
+1da43e3c-f07e-4c27-b80f-65d8f5db6675,Eesti Pank,2023-01-10T09:29:38.029Z,2accbfe3-82d8-4812-94b1-e99beeacf9c5,ZZZ,Estonia,ee,471684969530551,Eesti Pank,Facebook
 d25ae46d-35eb-40ac-b6bf-660ce5f2918b,TaxTris,2023-01-10T09:29:40.635Z,afb3fe24-7c82-4f2d-b4e7-98257e2db690,ZZZ,Estonia,ee,109184428639401,TaxTris,Facebook
+45c974c9-b7d2-4778-ae2d-884b918391b2,ITuudised,2023-01-10T09:29:38.054Z,9b3de089-c63d-4e2a-a5cb-91dbae06e65c,ZZZ,Estonia,ee,512805845411415,ITuudised,Facebook
 50b7aa90-62c0-4d25-9faa-88c3ef8c01b8,Your Daily Game Face,2023-01-10T09:29:40.749Z,bdae6d98-1934-4beb-b733-3679bafd7741,ZZZ,Estonia,ee,101971048046703,Your Daily Game Face,Facebook
+96fdfbaa-680e-4620-b1f3-9a80521a7a10,FoundME,2023-01-10T09:29:38.073Z,166735d4-4552-43ca-8060-2dc236882f7e,ZZZ,Estonia,ee,104416784453155,FoundME,Facebook
+79db4ebf-f93a-4256-86d1-cfc483d23663,kinnisvarauudised.ee,2023-01-10T09:29:38.089Z,e1473aee-83df-4196-b757-a7215b2378df,ZZZ,Estonia,ee,609033342446932,kinnisvarauudised.ee,Facebook
 eb7527f0-69ec-4f28-b2f5-5cb807bb5695,Falstaff International,2023-01-10T09:29:41.140Z,3e9ad957-a40c-4d2c-846f-23d594254b11,ZZZ,Estonia,ee,338707340769202,Falstaff International,Facebook
+20000b1b-f42d-4618-8d8f-d9e6e52fd36f,pollumajandus.ee,2023-01-10T09:29:38.118Z,8595acfd-a0ca-4188-84a7-b40d25f13a61,ZZZ,Estonia,ee,231298983701361,pollumajandus.ee,Facebook
+ea372393-362f-4eda-8852-0f4d0209bf57,Tallinna linn,2023-01-10T09:29:37.976Z,92b45eb0-5001-4974-bd10-5abc8ea3f3dc,ZZZ,Estonia,ee,971885476227076,Tallinna linn,Facebook
 cf33e506-bafb-4c8a-96b8-ffbc36eb1680,Päästame Eesti Metsad MTÜ,2023-01-10T09:29:38.472Z,3213cbf8-af42-43fd-bbab-b9d7d2bcf8a9,ZZZ,Estonia,ee,109201207323769,Päästame Eesti Metsad MTÜ,Facebook
+5c96736f-3f60-4a69-a050-b3f0c923ebd2,Ajaleht Pealinn,2023-01-10T09:29:37.992Z,9829d4e2-1e65-431a-81a8-4123ecd20b44,ZZZ,Estonia,ee,877169915631595,Ajaleht Pealinn,Facebook
 d7c878ba-a1c4-41f0-98e8-76bc93ae4a46,Kätlin Joala,2023-01-10T09:29:38.851Z,b0e5c308-4581-4640-8450-67f73f45ea54,ZZZ,Estonia,ee,133587457265455,Kätlin Joala,Facebook
+835777f1-053c-4c08-9724-26d4c440a107,Palgauudised.ee,2023-01-10T09:29:38.119Z,331d4b21-5c24-4470-8759-839831f338fc,ZZZ,Estonia,ee,102853298269797,Palgauudised.ee,Facebook
 112eebe2-38ef-4def-84ac-d1441b5f145d,MTÜ Mondo,2023-01-10T09:29:38.612Z,33907eac-7504-47fb-9379-28582ff2c5a3,ZZZ,Estonia,ee,219591110515,MTÜ Mondo,Facebook
 57d30772-56c4-458e-bd20-1d8b41ba1d12,Nähtamatud Loomad,2023-01-10T09:29:38.535Z,5a7fbc56-a218-4052-b61a-a8b148316f98,ZZZ,Estonia,ee,405367699805160,Nähtamatud Loomad,Facebook
+dd252f82-1e47-4596-886e-e647c870c4e2,ГОЛОС Маарду,2023-01-10T09:29:38.169Z,1114ea0c-8d2e-4de0-a856-61def488db9e,ZZZ,Estonia,ee,108255437477996,ГОЛОС Маарду,Facebook
 f18a3364-b234-4f46-9b58-f6b4879e0fad,EEA and Norway Grants,2023-01-10T09:29:41.856Z,e0c23527-ab58-460a-9eeb-920972df9832,ZZZ,Estonia,ee,70937137362,EEA and Norway Grants,Facebook
+56066c7f-4b9e-423c-9e41-cfb0bbe2cd06,Tallinna Kunstihoone,2023-01-10T09:29:39.112Z,92566104-7b89-41f2-aae9-2507194fb0c9,ZZZ,Estonia,ee,444711145600076,Tallinna Kunstihoone,Facebook
 cc854aab-b939-4db4-b988-dccc368c8418,Charming Changzhou,2023-01-10T09:29:41.772Z,485deaca-d1d1-46ad-9e46-56f162f0fe0c,ZZZ,Estonia,ee,101054365776547,Charming Changzhou,Facebook
+06872880-977f-4086-8718-29034e1d3ca8,Bolt,2023-01-10T09:29:39.156Z,19ee0948-2a44-47b4-b730-b2c5aa139e7b,ZZZ,Estonia,ee,1807922492788533,Bolt,Facebook
 57f4674e-db34-4e7b-aee3-284c66090cde,Nordic Business Forum,2023-01-10T09:29:41.013Z,55845848-7302-4df9-b96a-41b1ed9d49ed,ZZZ,Estonia,ee,108986302548902,Nordic Business Forum,Facebook
+f9f656ab-a2be-4bea-8fcd-fd45c26a1f2f,Le succès est l'un,2023-01-10T09:29:39.456Z,2aa67d40-204c-4617-af99-a5bcd3e87c66,ZZZ,Estonia,ee,102638065965552,Le succès est l'un,Facebook
 5d9166d0-9c64-4756-b793-a67d727e5fbb,Jaguar,2023-01-10T09:29:38.973Z,409b7f43-c9bc-4c79-b7f6-7580c6c30c20,ZZZ,Estonia,ee,226705607368925,Jaguar,Facebook
+ca26b5bb-3921-4b78-b9ec-b6e3840752b7,Santa Maria,2023-01-10T09:29:39.851Z,8a8eb5c1-a3c0-4d23-8656-1bb2864b0331,ZZZ,Estonia,ee,452334264903478,Santa Maria,Facebook
 ca722b0d-49c9-4253-867f-40e752ec982d,NAINE,2023-01-10T09:29:39.936Z,73e57317-5658-4a9b-bc52-b258fbbd595b,ZZZ,Estonia,ee,101670382074372,NAINE,Facebook
-d68569ff-e6eb-484f-92ce-7f8e1877aa5e,NJORD Advokaadibüroo,2023-01-10T09:29:39.579Z,2321422b-1bbb-4b84-85e9-14a8307d4fb3,ZZZ,Estonia,ee,357831471066190,NJORD Advokaadibüroo,Facebook
-4185e049-01c8-4f70-ba94-3264a0e0c9b6,JEF Estonia,2023-01-10T09:29:39.658Z,4500c1b9-4fa1-4ef4-9bad-bf5366e54dd1,ZZZ,Estonia,ee,107809515043901,JEF Estonia,Facebook
-908179f7-73c0-49c3-bb9b-290707bcd7fe,Sterisol,2023-01-10T09:29:40.531Z,43b99f07-ff3a-4918-a416-e370f9d117e7,ZZZ,Estonia,ee,140779693272290,Sterisol,Facebook
-76f5b4ee-a1fe-4660-b232-f862516a4ad7,Res Publica,2023-01-10T09:29:40.634Z,897cda16-ec6a-4467-bac0-2f54612e3bbc,ZZZ,Estonia,ee,485859584908130,Res Publica,Facebook
-29984b95-9927-4007-b374-0072a26cb4c0,Ordinarilyla.com,2023-01-10T09:29:41.074Z,67d18e2c-f579-4c4c-aa71-219c2312b227,ZZZ,Estonia,ee,106386888743470,Ordinarilyla.com,Facebook
-0a9b93f2-01a7-4eb4-88cb-cacff8df335d,Zelenayalenta,2023-01-10T09:29:38.736Z,1a462fe3-5543-4dcf-851f-36260c975d64,ZZZ,Estonia,ee,105430249060269,Zelenayalenta,Facebook
-ebd9c6e5-ee83-46f5-a816-7efc250f67b2,Gosia Ornowska,2023-01-10T09:29:41.111Z,cb62fd51-f1b8-4c91-857f-6b101e148dc1,ZZZ,Estonia,ee,679387108865365,Gosia Ornowska,Facebook
-f10674df-9db9-4c13-b837-b079924f9032,Armas Eesti,2023-01-10T09:29:39.838Z,2ed2f7ec-fc06-4165-8e51-c491e36f4821,ZZZ,Estonia,ee,106638541427194,Armas Eesti,Facebook
-e546508a-bd1d-4c18-b9dc-643a303ec70e,Tallinna Tehnikakõrgkool,2023-01-10T09:29:38.594Z,9dd73b94-5123-40a1-8182-2f1bcdd529dc,ZZZ,Estonia,ee,446799608771583,Tallinna Tehnikakõrgkool,Facebook
-26c69a43-864e-4875-819b-167234121ec7,Lasteabi,2023-01-10T09:29:37.715Z,2475bf98-06c7-4744-82a4-53996608f8b0,ZZZ,Estonia,ee,130856533593837,Lasteabi,Facebook
-be5e8927-9bc9-4226-b740-709325695952,Школа Безлогичного метода С.И.Лосева,2023-01-10T09:29:40.469Z,8766e40c-895f-4168-b3ac-f314b4258caf,ZZZ,Estonia,ee,2062399560518625,Школа Безлогичного метода С.И.Лосева,Facebook
-9efd6949-3ba4-4184-86a1-3fb9f2b647f8,Majexic,2023-01-10T09:29:39.193Z,c5456b35-3854-4e6a-bdef-c9ae72c10a98,ZZZ,Estonia,ee,105873932311092,Majexic,Facebook
-e1854a29-2a18-4352-904d-01ec7f1213ea,Priit Willbach,2023-01-10T09:29:39.916Z,046e68c3-7f0c-4bda-b1e3-16d68e574789,ZZZ,Estonia,ee,102941645973842,Priit Willbach,Facebook
-abbbb9f0-b3a9-499b-a5e1-35af50ff854f,AS Schenker,2023-01-10T09:29:40.077Z,81d36119-832c-4545-9dc5-203ce9740d75,ZZZ,Estonia,ee,700296216707159,AS Schenker,Facebook
-3c643609-3274-4d66-975e-ef3fd54beb88,Aparaaditehas,2023-01-10T09:29:40.216Z,7f79ed40-582d-47a3-ba39-3822c68650c5,ZZZ,Estonia,ee,466149586852558,Aparaaditehas,Facebook
-7dc51451-4c92-40fc-ae7b-b4b10bcf1f80,Go Games,2023-01-10T09:29:39.777Z,f5c72e48-2eaf-495b-8486-6a81138ae5d3,ZZZ,Estonia,ee,102843262542259,Go Games,Facebook
-d9f605fa-5711-4d13-ba93-8867c91c7e3c,Personaliuudised.ee,2023-01-10T09:29:38.180Z,5f1afc6a-0189-419a-b0a8-566f4b8251a4,ZZZ,Estonia,ee,204245693255250,Personaliuudised.ee,Facebook
-fa2282fb-f2cd-45af-8663-071d2001fd93,Viru Keemia Grupp,2023-01-10T09:29:38.354Z,70c44f63-8e52-44a8-bd84-0be2cd6ae9de,ZZZ,Estonia,ee,216431678411603,Viru Keemia Grupp,Facebook
-ffae5fdf-b227-4145-adf4-c4dc272f3cc6,Vaade,2023-01-10T09:29:38.390Z,392b7898-c3c3-42c0-8041-c64106589093,ZZZ,Estonia,ee,110272961389791,Vaade,Facebook
-6080da3e-7b3a-4071-824d-0fc545917e9b,Rahva Raamat,2023-01-10T09:29:39.591Z,4a16cd68-4c0c-4d6c-851e-e5d49bc489cb,ZZZ,Estonia,ee,128335593846197,Rahva Raamat,Facebook
-1de2740c-c712-4f02-b7ea-876fe3509e51,Majandusteadus ja juhtimine - DMS,2023-01-10T09:29:38.572Z,fbf17a07-40ed-4744-9876-38d8a8964c01,ZZZ,Estonia,ee,143082579064688,Majandusteadus ja juhtimine - DMS,Facebook
-b556b3d0-e451-4522-a1f4-c274f7ed4bc6,Saaremaa Mahemuna,2023-01-10T09:29:38.452Z,ed60a39a-6e79-41e4-8f45-37253eba412f,ZZZ,Estonia,ee,103347651166362,Saaremaa Mahemuna,Facebook
-c5475c87-bcc5-4bbc-9469-808ce85cfddd,Saudi Arabia's Reality,2023-01-10T09:29:41.857Z,2a675d5a-5bba-48f9-ab95-bc566c24d025,ZZZ,Estonia,ee,104304855324448,Saudi Arabia's Reality,Facebook
-1009f776-51f9-4f29-b7d8-316f579cf869,Laetitia Adoukey,2023-01-10T09:29:41.753Z,502a36ce-03d9-474b-ab5c-e2ebb63c4859,ZZZ,Estonia,ee,424365041640375,Laetitia Adoukey,Facebook
-f3c87e6b-d874-41a7-b097-3bffc5b148fa,月旦港事,2023-01-10T09:29:41.013Z,0298d60f-cf7f-4d3f-a00f-c82bd7fb8469,ZZZ,Estonia,ee,107996315091233,月旦港事,Facebook
-abd1d22b-8783-450f-93dd-e7a3f27c8c38,ვაჟა მელაძის უფლებების დაცვის ცენტრი,2023-01-10T09:29:41.289Z,f2415a28-60b1-4197-b536-b50a653072a6,ZZZ,Estonia,ee,106944732034123,ვაჟა მელაძის უფლებების დაცვის ცენტრი,Facebook
-eb7a2f5e-654e-429c-940d-3c6ba4381ca6,Olimioa,2023-01-10T09:29:39.020Z,23ac9c95-d09d-484b-ab28-283322e440d8,ZZZ,Estonia,ee,110046138532623,Olimioa,Facebook
-eea9dbdb-ea84-46fc-8f7e-92f7a0379ed2,Saksa saatkond Tallinnas - Deutsche Botschaft Tallinn,2023-01-10T09:29:39.170Z,4f13acde-1670-469f-b77e-274e5a405557,ZZZ,Estonia,ee,1473716559583176,Saksa saatkond Tallinnas - Deutsche Botschaft Tallinn,Facebook
-45694776-85e8-4d8b-8f68-60123e6b90a5,Pico Design,2023-01-10T09:29:39.536Z,b2e2d978-cffc-460e-b79e-c10d8e057d09,ZZZ,Estonia,ee,107528448076850,Pico Design,Facebook
-3702214c-6543-4e9c-ba39-56e72afee528,Eversheds Sutherland Estonia,2023-01-10T09:29:39.891Z,b6a0c917-23ec-4835-a569-04fa9dbf4f55,ZZZ,Estonia,ee,439954459851566,Eversheds Sutherland Estonia,Facebook
-ea70beff-5315-42d8-af11-2a2523b07dda,Bosch Eesti,2023-01-10T09:29:40.221Z,3375882d-9aea-44d4-93c2-50aed44ff8d6,ZZZ,Estonia,ee,364689113902886,Bosch Eesti,Facebook
-0e28bd7a-9969-401b-829a-d05fcd204c65,Silver Kuusik,2023-01-10T09:29:39.560Z,8361be67-172e-41dc-b6ea-9981d598ef65,ZZZ,Estonia,ee,103360671726840,Silver Kuusik,Facebook
-b5b4aa32-bcf9-4aa3-888b-59020b5137c2,Tallinna ettevõtluskeskus,2023-01-10T09:29:39.591Z,0dbe5f2d-9429-42fd-9bfe-4176d8e8041a,ZZZ,Estonia,ee,484096254971934,Tallinna ettevõtluskeskus,Facebook
-5029bf1a-1da4-483e-9835-0955b3b215c7,Rohegeenius,2023-01-10T09:29:39.830Z,a8cb3363-2c6a-4f23-a1e1-d9a7a2742ed4,ZZZ,Estonia,ee,106062197443526,Rohegeenius,Facebook
-75a0c409-c61a-4899-b969-58129c0578ef,Eesti Maaülikool/Estonian University of Life Sciences,2023-01-10T09:29:38.374Z,7fd10172-5443-46b3-b5da-c28b3b426f28,ZZZ,Estonia,ee,319434497842,Eesti Maaülikool/Estonian University of Life Sciences,Facebook
-c29e8936-6b68-4415-a8b9-6c41d92a0060,Eesti Metsa Abiks,2023-01-10T09:29:38.215Z,24581a7c-6894-4dd2-b9b5-8ed19d06740d,ZZZ,Estonia,ee,123790898200087,Eesti Metsa Abiks,Facebook
-306a3399-7f80-4a3b-a859-c388f89f5810,Kuku Kaardid,2023-01-10T09:29:39.136Z,ffa2d387-5859-45c4-b5f4-52346ceadac9,ZZZ,Estonia,ee,762487137231262,Kuku Kaardid,Facebook
-69021b69-247b-4f9b-97e5-d08ef344b5a4,Pärnumaa Arenduskeskus,2023-01-10T09:29:38.614Z,77b59d2c-b57b-4190-b061-fdce7ac0ba72,ZZZ,Estonia,ee,197473906985370,Pärnumaa Arenduskeskus,Facebook
-066f9d1a-189d-4682-a046-c728a1c0d164,Kaubandus.ee,2023-01-10T09:29:38.152Z,7d5a4f63-813b-4fef-a8a3-3cbe9ea7324f,ZZZ,Estonia,ee,249880281811198,Kaubandus.ee,Facebook
-50dcf707-0da5-4de5-a719-aa4803ab3be2,GoodHardy-DE,2023-01-10T09:29:41.857Z,9ac57f9e-9bf4-402a-ac04-42e58f0a8477,ZZZ,Estonia,ee,105857062232327,GoodHardy-DE,Facebook
-148187ec-60ee-4bb0-9239-8c2b75f5158e,Eurofans Radio,2023-01-10T09:29:40.635Z,6491cff8-9d70-4624-adba-74d3a05e6741,ZZZ,Estonia,ee,221867851601531,Eurofans Radio,Facebook
-0a79c2be-3ec8-4694-9620-439dc7d61fcb,Голос Америки,2023-01-10T09:29:40.910Z,3955b6bd-23dc-4a13-ba4e-5d7fc6f3b1b2,ZZZ,Estonia,ee,144776752025,Голос Америки,Facebook
-971ff19c-2a37-4653-afcf-4f9090e599b1,PRIME Orchestra,2023-01-10T09:29:39.892Z,484a07bb-24d7-4b41-95e3-def395221887,ZZZ,Estonia,ee,1459076787695484,PRIME Orchestra,Facebook
-4a50b6fa-b938-4010-a431-dd4969f9372e,Представительство Европейской комиссии в Эстонии,2023-01-10T09:29:38.232Z,bd5abb43-0619-4ac3-a118-14287396d5b0,ZZZ,Estonia,ee,350491992434154,Представительство Европейской комиссии в Эстонии,Facebook
-51261316-e400-4bc4-8835-a2f9609fc639,Gualberto,2023-01-10T09:29:39.079Z,31b2d7de-33ab-4052-b4d6-d6128aae7b11,ZZZ,Estonia,ee,100551646021298,Gualberto,Facebook
-8f0ba46f-223d-4b7e-bb28-94959f04417b,Estonia_public,2023-01-10T09:29:39.931Z,43713f19-3e69-4630-a9fb-d8062fbb8193,ZZZ,Estonia,ee,767723510076871,Estonia_public,Facebook
-8d712349-2185-47e7-8975-1a0b5fad67d7,LHV finantsportaal,2023-01-10T09:29:39.960Z,9cfcae40-38b5-4f0c-a786-a1e96bd5bd41,ZZZ,Estonia,ee,784297678394783,LHV finantsportaal,Facebook
-8c02c932-be0f-4397-95da-d9cdfe15b48c,Народный капитал,2023-01-10T09:29:39.655Z,968ab22a-11ca-4de7-b566-8443264c6db8,ZZZ,Estonia,ee,109229168689522,Народный капитал,Facebook
-eb767f9b-1910-40a4-b175-41a6da7c803c,ELMO RENT,2023-01-10T09:29:39.711Z,48d7e49d-5247-475d-9d52-ac5bf050b1fc,ZZZ,Estonia,ee,1726948180941263,ELMO RENT,Facebook
-9843b014-ecee-4f42-ad56-db6fbbba2006,SEB Eesti,2023-01-10T09:29:39.789Z,6f294017-29b6-4818-8490-bc191df78b82,ZZZ,Estonia,ee,149700202809,SEB Eesti,Facebook
-e663706e-8721-4ec6-8fe4-a98a7290f0fe,CPHI,2023-01-10T09:29:40.433Z,d9c70e90-0d7e-408a-a9fa-feab8595d7a1,ZZZ,Estonia,ee,115393638502087,CPHI,Facebook
-f48cd90b-7da0-4115-9f5f-f710dec675fe,Eesti Roheline Liikumine,2023-01-10T09:29:38.732Z,02673fea-6f3a-44c6-bde8-3fe6c034442d,ZZZ,Estonia,ee,286121050300,Eesti Roheline Liikumine,Facebook
-bdec47ec-0465-4fda-86e0-7b79de22eba0,"Фонд премии ""Генезис""",2023-01-10T09:29:41.839Z,d2a034e6-42f6-43c0-8c9c-7720195e83fd,ZZZ,Estonia,ee,102668075081968,"Фонд премии ""Генезис""",Facebook
-3baa383b-cc75-4eba-a26b-e9ce084f9c07,Masaryk University,2023-01-10T09:29:41.810Z,e360195c-47c4-4187-b2de-a2316a1b3f05,ZZZ,Estonia,ee,142976505811472,Masaryk University,Facebook
-27b57fb6-a5f6-43f4-83a0-b77397271d1f,Edumus School,2023-01-10T09:29:39.911Z,a74bcd03-3aac-4d65-bdb9-dd2acae86895,ZZZ,Estonia,ee,113135694602263,Edumus School,Facebook
-354c0e3a-5975-4a3e-953c-0d633ab2d086,Королевство Северный Бархант,2023-01-10T09:29:40.579Z,80a55642-573d-4163-bea2-92c6ebaf116c,ZZZ,Estonia,ee,444111739262759,Королевство Северный Бархант,Facebook
+44c7c101-0d68-4f54-8cf7-b9cbe74e0822,Tallinna Pelgulinna Riigigümnaasium,2023-01-10T09:29:39.975Z,76a5b9a9-2cb1-4da4-979c-eb3ab970acc4,ZZZ,Estonia,ee,124845369777216,Tallinna Pelgulinna Riigigümnaasium,Facebook
 fa9fc5e3-3d55-4f49-9515-828a2e947b7b,News of the day,2023-01-10T09:29:40.795Z,6ff56d7a-33eb-4373-b4f4-5c4611f47094,ZZZ,Estonia,ee,101848666068265,News of the day,Facebook
+d68569ff-e6eb-484f-92ce-7f8e1877aa5e,NJORD Advokaadibüroo,2023-01-10T09:29:39.579Z,2321422b-1bbb-4b84-85e9-14a8307d4fb3,ZZZ,Estonia,ee,357831471066190,NJORD Advokaadibüroo,Facebook
 630c7fa9-6d66-4355-8333-7ab31a84c7d9,Daily news club,2023-01-10T09:29:40.871Z,5dd07a10-ad3e-415b-ba68-265892e6013b,ZZZ,Estonia,ee,105786562335852,Daily news club,Facebook
+4185e049-01c8-4f70-ba94-3264a0e0c9b6,JEF Estonia,2023-01-10T09:29:39.658Z,4500c1b9-4fa1-4ef4-9bad-bf5366e54dd1,ZZZ,Estonia,ee,107809515043901,JEF Estonia,Facebook
 f4ce3658-e76d-40a4-8830-ded5b71fb6fd,Migration Atlas,2023-01-10T09:29:40.933Z,da813864-0aeb-4d6c-a2d1-607485df1aa2,ZZZ,Estonia,ee,104596941608220,Migration Atlas,Facebook
 c2623964-df59-4646-b4c1-d8fe99044bf7,Ukraine NOW,2023-01-10T09:29:41.251Z,02b6894b-bd1f-4418-b6ee-86fe63203c71,ZZZ,Estonia,ee,348409719303587,Ukraine NOW,Facebook
+908179f7-73c0-49c3-bb9b-290707bcd7fe,Sterisol,2023-01-10T09:29:40.531Z,43b99f07-ff3a-4918-a416-e370f9d117e7,ZZZ,Estonia,ee,140779693272290,Sterisol,Facebook
 2aa6f1b1-47bf-4c2b-b864-f5d71349b50c,Аренда,2023-01-10T09:29:38.617Z,7aefa7ce-2d59-4d68-b4fe-14a3d119d3d6,ZZZ,Estonia,ee,110961931826618,Аренда,Facebook
+76f5b4ee-a1fe-4660-b232-f862516a4ad7,Res Publica,2023-01-10T09:29:40.634Z,897cda16-ec6a-4467-bac0-2f54612e3bbc,ZZZ,Estonia,ee,485859584908130,Res Publica,Facebook
 2052ac22-6751-49ae-98d8-102cbd679eac,Purina Eesti,2023-01-10T09:29:38.912Z,2eade262-fbe4-4842-8183-219b70c4c40f,ZZZ,Estonia,ee,432521380156592,Purina Eesti,Facebook
+29984b95-9927-4007-b374-0072a26cb4c0,Ordinarilyla.com,2023-01-10T09:29:41.074Z,67d18e2c-f579-4c4c-aa71-219c2312b227,ZZZ,Estonia,ee,106386888743470,Ordinarilyla.com,Facebook
 5d3ca701-53ae-4aae-8f55-c6c4eff8c047,Keskturg,2023-01-10T09:29:39.018Z,b7cb18eb-adf1-4609-b735-aa2b39b4b2a0,ZZZ,Estonia,ee,107371537522080,Keskturg,Facebook
 ca0b51f2-a507-47c3-b30e-6f2d6cbc8625,Muusika,2023-01-10T09:29:40.333Z,3fb33e80-0aa5-4bed-a5f1-259cb541da8b,ZZZ,Estonia,ee,198347266964814,Muusika,Facebook
+0a9b93f2-01a7-4eb4-88cb-cacff8df335d,Zelenayalenta,2023-01-10T09:29:38.736Z,1a462fe3-5543-4dcf-851f-36260c975d64,ZZZ,Estonia,ee,105430249060269,Zelenayalenta,Facebook
+ebd9c6e5-ee83-46f5-a816-7efc250f67b2,Gosia Ornowska,2023-01-10T09:29:41.111Z,cb62fd51-f1b8-4c91-857f-6b101e148dc1,ZZZ,Estonia,ee,679387108865365,Gosia Ornowska,Facebook
 e0862fce-d1f5-4006-9bdb-65d3632929fc,yanatoom,2023-01-10T09:29:39.849Z,dc19ecee-e563-4230-9660-6db030e9a3e0,ZZZ,Estonia,ee,102699295984290,yanatoom,Facebook
+f10674df-9db9-4c13-b837-b079924f9032,Armas Eesti,2023-01-10T09:29:39.838Z,2ed2f7ec-fc06-4165-8e51-c491e36f4821,ZZZ,Estonia,ee,106638541427194,Armas Eesti,Facebook
 a64709bd-1a40-4738-ac92-6b8823d66df2,Best Marketing Eesti,2023-01-10T09:29:38.320Z,b8fd4876-1e70-44ce-a1a3-08054f289528,ZZZ,Estonia,ee,288786778668,Best Marketing Eesti,Facebook
+e546508a-bd1d-4c18-b9dc-643a303ec70e,Tallinna Tehnikakõrgkool,2023-01-10T09:29:38.594Z,9dd73b94-5123-40a1-8182-2f1bcdd529dc,ZZZ,Estonia,ee,446799608771583,Tallinna Tehnikakõrgkool,Facebook
 da21e484-c80b-429a-820e-77bb767489bb,Miltton New Nordics,2023-01-10T09:29:38.379Z,086d952c-4b66-4bd6-a864-804d7aa30cec,ZZZ,Estonia,ee,701178223372172,Miltton New Nordics,Facebook
 740c447c-a1fa-49eb-b6b0-095e9c4b56e1,ESTEL - Eesti Taristuehituse Liit,2023-01-10T09:29:38.852Z,cc6d6762-dbc1-44a4-9c48-6fa2f5d94833,ZZZ,Estonia,ee,106622938809742,ESTEL - Eesti Taristuehituse Liit,Facebook
+26c69a43-864e-4875-819b-167234121ec7,Lasteabi,2023-01-10T09:29:37.715Z,2475bf98-06c7-4744-82a4-53996608f8b0,ZZZ,Estonia,ee,130856533593837,Lasteabi,Facebook
 a54e2487-cfd0-4c9b-9e01-c29417dcc532,Tribuna.ee,2023-01-10T09:29:39.071Z,8e4de970-25d6-4f49-b196-980c48a44326,ZZZ,Estonia,ee,1463812053668077,Tribuna.ee,Facebook
 fbca97ef-8c21-49b8-9b73-538ffce401a8,Ellex Raidla Advokaadibüroo,2023-01-10T09:29:38.958Z,4a84f7f0-bf79-4155-b214-e8067fdbd849,ZZZ,Estonia,ee,1384541791586260,Ellex Raidla Advokaadibüroo,Facebook
+be5e8927-9bc9-4226-b740-709325695952,Школа Безлогичного метода С.И.Лосева,2023-01-10T09:29:40.469Z,8766e40c-895f-4168-b3ac-f314b4258caf,ZZZ,Estonia,ee,2062399560518625,Школа Безлогичного метода С.И.Лосева,Facebook
+9efd6949-3ba4-4184-86a1-3fb9f2b647f8,Majexic,2023-01-10T09:29:39.193Z,c5456b35-3854-4e6a-bdef-c9ae72c10a98,ZZZ,Estonia,ee,105873932311092,Majexic,Facebook
 3b82106b-2a2b-4f86-a5dd-40710d455535,LHV пенсия,2023-01-10T09:29:38.812Z,47f1140e-858a-4f05-801b-7f04987ba13a,ZZZ,Estonia,ee,1574229379493786,LHV пенсия,Facebook
+e1854a29-2a18-4352-904d-01ec7f1213ea,Priit Willbach,2023-01-10T09:29:39.916Z,046e68c3-7f0c-4bda-b1e3-16d68e574789,ZZZ,Estonia,ee,102941645973842,Priit Willbach,Facebook
 059dedda-1c67-444a-a821-2d4016b4877b,Mitteformaalne õppimine,2023-01-10T09:29:38.670Z,d9484b27-7ef4-40fd-946f-716d4d8269b5,ZZZ,Estonia,ee,175927795791459,Mitteformaalne õppimine,Facebook
+abbbb9f0-b3a9-499b-a5e1-35af50ff854f,AS Schenker,2023-01-10T09:29:40.077Z,81d36119-832c-4545-9dc5-203ce9740d75,ZZZ,Estonia,ee,700296216707159,AS Schenker,Facebook
 3964c50a-dd63-4413-9519-b3b1dde24b6e,Asia Global Institute,2023-01-10T09:29:41.772Z,4a0c2259-2689-4509-9189-94d605792229,ZZZ,Estonia,ee,327115907736300,Asia Global Institute,Facebook
+3c643609-3274-4d66-975e-ef3fd54beb88,Aparaaditehas,2023-01-10T09:29:40.216Z,7f79ed40-582d-47a3-ba39-3822c68650c5,ZZZ,Estonia,ee,466149586852558,Aparaaditehas,Facebook
 91c9f786-fd7b-44ca-934c-57fb00564e71,Vera Pelle Italiana Conciata al Vegetale - Consorzio,2023-01-10T09:29:40.433Z,04eec8de-fb15-46fc-b4d3-34e610a4b01d,ZZZ,Estonia,ee,116979068409096,Vera Pelle Italiana Conciata al Vegetale - Consorzio,Facebook
 8e4cfd2d-affa-414f-b5e6-e53962cbac3b,photo.korobka,2023-01-10T09:29:40.571Z,9d5b7dfd-b21f-445f-8bda-eb2da6264f3f,ZZZ,Estonia,ee,106644607414162,photo.korobka,Facebook
+7dc51451-4c92-40fc-ae7b-b4b10bcf1f80,Go Games,2023-01-10T09:29:39.777Z,f5c72e48-2eaf-495b-8486-6a81138ae5d3,ZZZ,Estonia,ee,102843262542259,Go Games,Facebook
 225e1ad5-1629-481b-a49f-a216abf54a74,Telefono Viola.,2023-01-10T09:29:40.916Z,79573abc-9f9a-4fbc-b3db-d047e38d0ca8,ZZZ,Estonia,ee,178015326254577,Telefono Viola.,Facebook
+d9f605fa-5711-4d13-ba93-8867c91c7e3c,Personaliuudised.ee,2023-01-10T09:29:38.180Z,5f1afc6a-0189-419a-b0a8-566f4b8251a4,ZZZ,Estonia,ee,204245693255250,Personaliuudised.ee,Facebook
 de1fdada-fc6e-41a2-bdf3-50caa3cc1ae3,KPMG Baltics,2023-01-10T09:29:39.451Z,e9e9db9f-f381-492d-856e-9a660fbc978f,ZZZ,Estonia,ee,285444226613,KPMG Baltics,Facebook
+fa2282fb-f2cd-45af-8663-071d2001fd93,Viru Keemia Grupp,2023-01-10T09:29:38.354Z,70c44f63-8e52-44a8-bd84-0be2cd6ae9de,ZZZ,Estonia,ee,216431678411603,Viru Keemia Grupp,Facebook
 b32d9c60-f2a1-4c0a-9da4-97bcb5d5c1c8,Qronis,2023-01-10T09:29:39.557Z,d481663e-3ae1-46f1-9005-8450f33fff6d,ZZZ,Estonia,ee,105461035673015,Qronis,Facebook
 58624e50-4255-4ab8-bde7-4564f8350338,VikingGenetics,2023-01-10T09:29:40.376Z,31c77ffa-0175-482c-9b71-7d46c7924cb1,ZZZ,Estonia,ee,144244628930681,VikingGenetics,Facebook
+ffae5fdf-b227-4145-adf4-c4dc272f3cc6,Vaade,2023-01-10T09:29:38.390Z,392b7898-c3c3-42c0-8041-c64106589093,ZZZ,Estonia,ee,110272961389791,Vaade,Facebook
 7d28d41c-c690-457b-82e5-60d1868e4dd6,SA Ida-Viru Investeeringute Agentuur,2023-01-10T09:29:38.153Z,1a203e9a-1fe5-41be-8a52-32d1b412ced5,ZZZ,Estonia,ee,1539007586379822,SA Ida-Viru Investeeringute Agentuur,Facebook
+6080da3e-7b3a-4071-824d-0fc545917e9b,Rahva Raamat,2023-01-10T09:29:39.591Z,4a16cd68-4c0c-4d6c-851e-e5d49bc489cb,ZZZ,Estonia,ee,128335593846197,Rahva Raamat,Facebook
 61925953-d24b-4e11-aee6-371050a4cbd3,xLaw,2023-01-10T09:29:38.656Z,cc4c248d-bc88-4be2-b787-04a66669c37b,ZZZ,Estonia,ee,105852494431515,xLaw,Facebook
+1de2740c-c712-4f02-b7ea-876fe3509e51,Majandusteadus ja juhtimine - DMS,2023-01-10T09:29:38.572Z,fbf17a07-40ed-4744-9876-38d8a8964c01,ZZZ,Estonia,ee,143082579064688,Majandusteadus ja juhtimine - DMS,Facebook
 a1be4fb3-0364-4560-a4ab-7f908223c392,Eesti Noorteühenduste Liit (ENL),2023-01-10T09:29:40.332Z,3d9bbf1b-c156-49a9-976f-a23fd3ea2939,ZZZ,Estonia,ee,106370135484,Eesti Noorteühenduste Liit (ENL),Facebook
+b556b3d0-e451-4522-a1f4-c274f7ed4bc6,Saaremaa Mahemuna,2023-01-10T09:29:38.452Z,ed60a39a-6e79-41e4-8f45-37253eba412f,ZZZ,Estonia,ee,103347651166362,Saaremaa Mahemuna,Facebook
 874271fa-5ea6-494e-9ab6-321440992798,Africa Equity Media,2023-01-10T09:29:41.815Z,65c7cce4-1311-4785-9417-7629b6f60255,ZZZ,Estonia,ee,106827194681183,Africa Equity Media,Facebook
+c5475c87-bcc5-4bbc-9469-808ce85cfddd,Saudi Arabia's Reality,2023-01-10T09:29:41.857Z,2a675d5a-5bba-48f9-ab95-bc566c24d025,ZZZ,Estonia,ee,104304855324448,Saudi Arabia's Reality,Facebook
 017c5a2d-53e3-4ca6-9257-92ed83ad919e,Спектр - онлайновый журнал,2023-01-10T09:29:41.870Z,3f649c02-0f5c-4639-9e65-bd5755315bdb,ZZZ,Estonia,ee,664551560288716,Спектр - онлайновый журнал,Facebook
+1009f776-51f9-4f29-b7d8-316f579cf869,Laetitia Adoukey,2023-01-10T09:29:41.753Z,502a36ce-03d9-474b-ab5c-e2ebb63c4859,ZZZ,Estonia,ee,424365041640375,Laetitia Adoukey,Facebook
 019c0ead-8b14-4f3d-a663-e2512ce3ae66,Станция - Эмиграция,2023-01-10T09:29:41.496Z,ab434497-cb9a-4139-84e0-2220f5f66830,ZZZ,Estonia,ee,103884175847975,Станция - Эмиграция,Facebook
+f3c87e6b-d874-41a7-b097-3bffc5b148fa,月旦港事,2023-01-10T09:29:41.013Z,0298d60f-cf7f-4d3f-a00f-c82bd7fb8469,ZZZ,Estonia,ee,107996315091233,月旦港事,Facebook
 f2ec9208-2b2a-4a48-9551-dfd7243e987c,Равлик-TV,2023-01-10T09:29:40.676Z,53db060b-2fa9-46ab-94b1-938827b9c671,ZZZ,Estonia,ee,107051532030503,Равлик-TV,Facebook
 e4bb7b7e-ddb8-4beb-aa6c-c96d210e0da3,الإتحاد الأوروبي بالعربي,2023-01-10T09:29:41.633Z,495698fe-85ff-4324-90e5-5dd52766cb3f,ZZZ,Estonia,ee,106558615657247,الإتحاد الأوروبي بالعربي,Facebook
+abd1d22b-8783-450f-93dd-e7a3f27c8c38,ვაჟა მელაძის უფლებების დაცვის ცენტრი,2023-01-10T09:29:41.289Z,f2415a28-60b1-4197-b536-b50a653072a6,ZZZ,Estonia,ee,106944732034123,ვაჟა მელაძის უფლებების დაცვის ცენტრი,Facebook
+eb7a2f5e-654e-429c-940d-3c6ba4381ca6,Olimioa,2023-01-10T09:29:39.020Z,23ac9c95-d09d-484b-ab28-283322e440d8,ZZZ,Estonia,ee,110046138532623,Olimioa,Facebook
 bb6192bc-dca8-42ca-a4b6-99176eecbfbb,Utilitas,2023-01-10T09:29:39.475Z,677c8c35-aa04-4688-a054-48245b5d5622,ZZZ,Estonia,ee,191048954816233,Utilitas,Facebook
+eea9dbdb-ea84-46fc-8f7e-92f7a0379ed2,Saksa saatkond Tallinnas - Deutsche Botschaft Tallinn,2023-01-10T09:29:39.170Z,4f13acde-1670-469f-b77e-274e5a405557,ZZZ,Estonia,ee,1473716559583176,Saksa saatkond Tallinnas - Deutsche Botschaft Tallinn,Facebook
 cc5fa6dc-4fba-4fcc-8395-be5d1c909043,Vastutustundliku Ettevõtluse Foorum,2023-01-10T09:29:39.970Z,fe1ec27d-db00-4591-be37-e933fc13b17f,ZZZ,Estonia,ee,192792207453088,Vastutustundliku Ettevõtluse Foorum,Facebook
+45694776-85e8-4d8b-8f68-60123e6b90a5,Pico Design,2023-01-10T09:29:39.536Z,b2e2d978-cffc-460e-b79e-c10d8e057d09,ZZZ,Estonia,ee,107528448076850,Pico Design,Facebook
 148bd1c1-eefd-4e49-b262-e24d638a5021,Advokaadibüroo LEXTAL,2023-01-10T09:29:40.084Z,ed52baa2-4461-4291-82d0-2db143873326,ZZZ,Estonia,ee,135320609988171,Advokaadibüroo LEXTAL,Facebook
+3702214c-6543-4e9c-ba39-56e72afee528,Eversheds Sutherland Estonia,2023-01-10T09:29:39.891Z,b6a0c917-23ec-4835-a569-04fa9dbf4f55,ZZZ,Estonia,ee,439954459851566,Eversheds Sutherland Estonia,Facebook
 1abcf61e-6bbc-4088-9f58-df149c732536,Solareu OÜ,2023-01-10T09:29:40.307Z,bef57c41-4c1d-4b52-ab61-3112db16a090,ZZZ,Estonia,ee,102539772623146,Solareu OÜ,Facebook
+ea70beff-5315-42d8-af11-2a2523b07dda,Bosch Eesti,2023-01-10T09:29:40.221Z,3375882d-9aea-44d4-93c2-50aed44ff8d6,ZZZ,Estonia,ee,364689113902886,Bosch Eesti,Facebook
 97e5906e-023d-4a28-83df-49f160ae0cdb,fabioaraujomg,2023-01-10T09:29:39.799Z,333f7083-ce9f-472a-b883-db1bee60ae08,ZZZ,Estonia,ee,102101392181355,fabioaraujomg,Facebook
+0e28bd7a-9969-401b-829a-d05fcd204c65,Silver Kuusik,2023-01-10T09:29:39.560Z,8361be67-172e-41dc-b6ea-9981d598ef65,ZZZ,Estonia,ee,103360671726840,Silver Kuusik,Facebook
 a7c2899a-53f0-4eae-be1a-5b4fd8823d17,Eastory,2023-01-10T09:29:40.531Z,cbf1abf9-58ba-42ab-af62-52e584ae41c4,ZZZ,Estonia,ee,100725611563534,Eastory,Facebook
+b5b4aa32-bcf9-4aa3-888b-59020b5137c2,Tallinna ettevõtluskeskus,2023-01-10T09:29:39.591Z,0dbe5f2d-9429-42fd-9bfe-4176d8e8041a,ZZZ,Estonia,ee,484096254971934,Tallinna ettevõtluskeskus,Facebook
 007b8825-55d4-4be6-9475-b7cba6cc602c,Luiza Alcantara,2023-01-10T09:29:40.829Z,422d96cd-f89d-44d2-8bc6-79f593a11add,ZZZ,Estonia,ee,105613698892107,Luiza Alcantara,Facebook
 fc5eda70-0cd2-4204-8acd-e8210bfe4df3,4CR,2023-01-10T09:29:41.089Z,ad0d77f0-2e46-4cde-8d60-9e3ff273b96c,ZZZ,Estonia,ee,442260955806813,4CR,Facebook
+5029bf1a-1da4-483e-9835-0955b3b215c7,Rohegeenius,2023-01-10T09:29:39.830Z,a8cb3363-2c6a-4f23-a1e1-d9a7a2742ed4,ZZZ,Estonia,ee,106062197443526,Rohegeenius,Facebook
 bf78715b-a4f1-4087-acf2-b1b237ddd3ad,SANHA Group,2023-01-10T09:29:41.151Z,66566401-2168-4d83-993b-f36e8bdda59d,ZZZ,Estonia,ee,899128903486696,SANHA Group,Facebook
+75a0c409-c61a-4899-b969-58129c0578ef,Eesti Maaülikool/Estonian University of Life Sciences,2023-01-10T09:29:38.374Z,7fd10172-5443-46b3-b5da-c28b3b426f28,ZZZ,Estonia,ee,319434497842,Eesti Maaülikool/Estonian University of Life Sciences,Facebook
 df4a6afe-2138-4734-b640-539d397ebd77,Shitlabel,2023-01-10T09:29:38.256Z,3651c1ac-bde6-460e-a095-b78958f428cd,ZZZ,Estonia,ee,731933546883668,Shitlabel,Facebook
 d3d131cc-b67b-44e1-952e-c4c9d366f777,Elu Äripäevas,2023-01-10T09:29:39.753Z,356af8fb-e1cd-48a0-b579-50dab4ac9be8,ZZZ,Estonia,ee,1497796503647245,Elu Äripäevas,Facebook
+c29e8936-6b68-4415-a8b9-6c41d92a0060,Eesti Metsa Abiks,2023-01-10T09:29:38.215Z,24581a7c-6894-4dd2-b9b5-8ed19d06740d,ZZZ,Estonia,ee,123790898200087,Eesti Metsa Abiks,Facebook
 61263434-8d39-4987-a500-79f4bbf4dd32,Eestimaa Rohelised,2023-01-10T09:29:38.331Z,f5cabd65-b30e-427f-bf68-f7f0407e9055,ZZZ,Estonia,ee,109605679062900,Eestimaa Rohelised,Facebook
 b7264137-ca64-4728-8f10-069376dcc057,Eesti Keskkonnaühenduste Koda,2023-01-10T09:29:38.154Z,466eb267-61bb-4c98-a345-3598929b6118,ZZZ,Estonia,ee,1897586357159663,Eesti Keskkonnaühenduste Koda,Facebook
+306a3399-7f80-4a3b-a859-c388f89f5810,Kuku Kaardid,2023-01-10T09:29:39.136Z,ffa2d387-5859-45c4-b5f4-52346ceadac9,ZZZ,Estonia,ee,762487137231262,Kuku Kaardid,Facebook
 4b4c43bd-793b-4b2f-ba66-d4a7f53e4e80,Tahmineh Ansari,2023-01-10T09:29:39.559Z,b58f8c02-7e6b-469b-804e-86147be99332,ZZZ,Estonia,ee,108483352043788,Tahmineh Ansari,Facebook
+69021b69-247b-4f9b-97e5-d08ef344b5a4,Pärnumaa Arenduskeskus,2023-01-10T09:29:38.614Z,77b59d2c-b57b-4190-b061-fdce7ac0ba72,ZZZ,Estonia,ee,197473906985370,Pärnumaa Arenduskeskus,Facebook
 91cc39ef-f910-470e-99a2-f9cfbc8507b4,Äripäeva raadio,2023-01-10T09:29:38.780Z,ae63a160-a0c0-400f-ae84-66b056bd1486,ZZZ,Estonia,ee,1197400520293869,Äripäeva raadio,Facebook
 0fcee968-4957-49b1-8c81-cf9574a6c04b,Narva Meediaklubi,2023-01-10T09:29:38.739Z,299ff798-5c1e-499a-8f48-97c5696afcb8,ZZZ,Estonia,ee,249171385768003,Narva Meediaklubi,Facebook
+066f9d1a-189d-4682-a046-c728a1c0d164,Kaubandus.ee,2023-01-10T09:29:38.152Z,7d5a4f63-813b-4fef-a8a3-3cbe9ea7324f,ZZZ,Estonia,ee,249880281811198,Kaubandus.ee,Facebook
 c8ed63bd-7831-4265-a240-175096c3a7b3,Äripäev,2023-01-10T09:29:38.209Z,c46fa981-e6be-4c36-bcc5-ec4449523b9f,ZZZ,Estonia,ee,58175601405,Äripäev,Facebook
 f611a17e-9d12-471a-8bee-eb48e4c52efd,彎彎繞灣灣,2023-01-10T09:29:41.870Z,23e66909-ba47-4077-bdcc-a2de81dbd1ee,ZZZ,Estonia,ee,1945562579018025,彎彎繞灣灣,Facebook
+50dcf707-0da5-4de5-a719-aa4803ab3be2,GoodHardy-DE,2023-01-10T09:29:41.857Z,9ac57f9e-9bf4-402a-ac04-42e58f0a8477,ZZZ,Estonia,ee,105857062232327,GoodHardy-DE,Facebook
 44aec815-abc4-4b7f-8f8d-e7ebfc38ac2a,Medair,2023-01-10T09:29:41.837Z,f75c4252-983c-405d-8a12-1ee9661d3148,ZZZ,Estonia,ee,181890091876904,Medair,Facebook
+148187ec-60ee-4bb0-9239-8c2b75f5158e,Eurofans Radio,2023-01-10T09:29:40.635Z,6491cff8-9d70-4624-adba-74d3a05e6741,ZZZ,Estonia,ee,221867851601531,Eurofans Radio,Facebook
 37e50513-67ff-4eb6-ae0c-b9f56928bc11,Егор Арсланов,2023-01-10T09:29:40.635Z,cf2f172b-e792-4907-ac25-f604690d6c43,ZZZ,Estonia,ee,102261232664011,Егор Арсланов,Facebook
+0a79c2be-3ec8-4694-9620-439dc7d61fcb,Голос Америки,2023-01-10T09:29:40.910Z,3955b6bd-23dc-4a13-ba4e-5d7fc6f3b1b2,ZZZ,Estonia,ee,144776752025,Голос Америки,Facebook
 9d9831a8-6d1f-4512-b6ef-f997ccd73941,Omnivore 98,2023-01-10T09:29:40.929Z,45a22ace-a64b-4a6b-a70d-39c040e7c74a,ZZZ,Estonia,ee,104141289173608,Omnivore 98,Facebook
 a71eecf1-3c7d-4f67-ad74-870149b1fa2e,News updates,2023-01-10T09:29:40.995Z,ec2578f7-b317-43a6-ad71-617467f12644,ZZZ,Estonia,ee,107595118816824,News updates,Facebook
+971ff19c-2a37-4653-afcf-4f9090e599b1,PRIME Orchestra,2023-01-10T09:29:39.892Z,484a07bb-24d7-4b41-95e3-def395221887,ZZZ,Estonia,ee,1459076787695484,PRIME Orchestra,Facebook
 f08b7729-da64-45f8-ab4d-4b7ebf0776ba,Деловые Ведомости / Delovõje Vedomosti,2023-01-10T09:29:37.892Z,b84a76e4-495f-4621-b31f-3de1586f8b85,ZZZ,Estonia,ee,172201122878662,Деловые Ведомости / Delovõje Vedomosti,Facebook
+4a50b6fa-b938-4010-a431-dd4969f9372e,Представительство Европейской комиссии в Эстонии,2023-01-10T09:29:38.232Z,bd5abb43-0619-4ac3-a118-14287396d5b0,ZZZ,Estonia,ee,350491992434154,Представительство Европейской комиссии в Эстонии,Facebook
+51261316-e400-4bc4-8835-a2f9609fc639,Gualberto,2023-01-10T09:29:39.079Z,31b2d7de-33ab-4052-b4d6-d6128aae7b11,ZZZ,Estonia,ee,100551646021298,Gualberto,Facebook
 f19b26a6-d0a4-4558-95fe-33ecebe06db3,Tartu Hoiu-laenuühistu,2023-01-10T09:29:38.054Z,5cb9fe5d-d11f-4616-bfdf-7ce165c1ee44,ZZZ,Estonia,ee,118664518157382,Tartu Hoiu-laenuühistu,Facebook
+8f0ba46f-223d-4b7e-bb28-94959f04417b,Estonia_public,2023-01-10T09:29:39.931Z,43713f19-3e69-4630-a9fb-d8062fbb8193,ZZZ,Estonia,ee,767723510076871,Estonia_public,Facebook
 cfd1541c-ef16-4d06-bd48-7f552ba3693d,Technopolis,2023-01-10T09:29:38.814Z,ccbe89d8-d36b-47ec-a59f-1882315424c4,ZZZ,Estonia,ee,320438104686075,Technopolis,Facebook
 8b7c4dfd-212d-4b38-bf0f-4b89a4bf8d4d,Miks,2023-01-10T09:29:39.112Z,cc834b3f-07be-4a7c-9c04-ded6fb6aed53,ZZZ,Estonia,ee,205617639492547,Miks,Facebook
+8d712349-2185-47e7-8975-1a0b5fad67d7,LHV finantsportaal,2023-01-10T09:29:39.960Z,9cfcae40-38b5-4f0c-a786-a1e96bd5bd41,ZZZ,Estonia,ee,784297678394783,LHV finantsportaal,Facebook
 fb041fb3-5177-4661-92ac-1c1da88cf9a6,Land Rover Eesti,2023-01-10T09:29:39.196Z,b9a93dcd-a95e-4d1b-832f-68a470691c9a,ZZZ,Estonia,ee,120894508001131,Land Rover Eesti,Facebook
+8c02c932-be0f-4397-95da-d9cdfe15b48c,Народный капитал,2023-01-10T09:29:39.655Z,968ab22a-11ca-4de7-b566-8443264c6db8,ZZZ,Estonia,ee,109229168689522,Народный капитал,Facebook
+eb767f9b-1910-40a4-b175-41a6da7c803c,ELMO RENT,2023-01-10T09:29:39.711Z,48d7e49d-5247-475d-9d52-ac5bf050b1fc,ZZZ,Estonia,ee,1726948180941263,ELMO RENT,Facebook
 9ea30857-ae4d-4f14-94a7-48c0cb21c13c,Euroopa Parlamendi Büroo Eestis,2023-01-10T09:29:39.516Z,41410e6f-6e86-41fe-8701-e1443693396a,ZZZ,Estonia,ee,158493618156,Euroopa Parlamendi Büroo Eestis,Facebook
+9843b014-ecee-4f42-ad56-db6fbbba2006,SEB Eesti,2023-01-10T09:29:39.789Z,6f294017-29b6-4818-8490-bc191df78b82,ZZZ,Estonia,ee,149700202809,SEB Eesti,Facebook
 407bf281-d5b8-4ea6-8c48-f296b984ce8d,Smartpost,2023-01-10T09:29:39.894Z,86eb8b08-4873-4b26-a7d0-19333089625a,ZZZ,Estonia,ee,118558122251,Smartpost,Facebook
+e663706e-8721-4ec6-8fe4-a98a7290f0fe,CPHI,2023-01-10T09:29:40.433Z,d9c70e90-0d7e-408a-a9fa-feab8595d7a1,ZZZ,Estonia,ee,115393638502087,CPHI,Facebook
+f48cd90b-7da0-4115-9f5f-f710dec675fe,Eesti Roheline Liikumine,2023-01-10T09:29:38.732Z,02673fea-6f3a-44c6-bde8-3fe6c034442d,ZZZ,Estonia,ee,286121050300,Eesti Roheline Liikumine,Facebook
 3b38c294-c86b-4c30-8d49-f9ea08424459,TÜ Kindel Siht,2023-01-10T09:29:39.992Z,865d31ce-2931-425a-bb19-bab3afbb8689,ZZZ,Estonia,ee,2412955658984764,TÜ Kindel Siht,Facebook
 dc433f9e-fae9-41f1-ba48-8db5c77daa89,Peekaboo Morning,2023-01-10T09:29:40.285Z,55297114-f082-4306-a3d4-3499fc90a0ce,ZZZ,Estonia,ee,106345922210042,Peekaboo Morning,Facebook
+bdec47ec-0465-4fda-86e0-7b79de22eba0,"Фонд премии ""Генезис""",2023-01-10T09:29:41.839Z,d2a034e6-42f6-43c0-8c9c-7720195e83fd,ZZZ,Estonia,ee,102668075081968,"Фонд премии ""Генезис""",Facebook
 0f218fcd-ce5b-4096-aded-62a80c3722a5,Tallinn Guide Club,2023-01-10T09:29:39.616Z,dcac6395-cfc5-4af3-8b16-9d833acbfd11,ZZZ,Estonia,ee,190805914360568,Tallinn Guide Club,Facebook
 5fd9dc05-8300-4e4d-8cb0-9421afb86a5c,Digioskused.ee õppeplatvorm,2023-01-10T09:29:39.712Z,7c48d509-fe56-4808-8306-aaea2112950b,ZZZ,Estonia,ee,101584469174094,Digioskused.ee õppeplatvorm,Facebook
+3baa383b-cc75-4eba-a26b-e9ce084f9c07,Masaryk University,2023-01-10T09:29:41.810Z,e360195c-47c4-4187-b2de-a2316a1b3f05,ZZZ,Estonia,ee,142976505811472,Masaryk University,Facebook
 483cf22d-468e-41cb-8b0f-2daf4bb69384,Estonian Ministry of Foreign Affairs / Välisministeerium,2023-01-10T09:29:39.833Z,1aa7e995-a366-4910-b007-b27b66af8254,ZZZ,Estonia,ee,57904691979,Estonian Ministry of Foreign Affairs / Välisministeerium,Facebook
+27b57fb6-a5f6-43f4-83a0-b77397271d1f,Edumus School,2023-01-10T09:29:39.911Z,a74bcd03-3aac-4d65-bdb9-dd2acae86895,ZZZ,Estonia,ee,113135694602263,Edumus School,Facebook
 d4b2a54c-f788-4251-9f9a-e7f25a817a15,Sophisticate Aurora,2023-01-10T09:29:41.139Z,0010e1d4-c8a1-43c3-8872-8ced62809060,ZZZ,Estonia,ee,106945215238943,Sophisticate Aurora,Facebook
+354c0e3a-5975-4a3e-953c-0d633ab2d086,Королевство Северный Бархант,2023-01-10T09:29:40.579Z,80a55642-573d-4163-bea2-92c6ebaf116c,ZZZ,Estonia,ee,444111739262759,Королевство Северный Бархант,Facebook
 d1dca8a5-1eec-4822-a345-caf5171ad702,Citizen OS,2023-01-10T09:29:38.739Z,f5cefed9-c0b4-468d-badf-2599da10b825,ZZZ,Estonia,ee,447868122041274,Citizen OS,Facebook
 15ae3669-41cb-45a2-b661-b2731b774dfa,Kliimaaktivist,2023-01-10T09:29:38.873Z,a3da4a5b-5435-4226-a19e-26fec3ce3a18,ZZZ,Estonia,ee,102052268638876,Kliimaaktivist,Facebook
+9a0f02a4-5221-428d-b9d6-9734864ee9dd,L'Oréal Group,2023-02-17T10:51:55.900Z,79f9b3ba-ad8f-4646-9e5e-f18ff51befce,ZZZ,Estonia,ee,217699811605907,L'Oréal Group,Facebook
 86053c60-73d2-443c-bda6-cfde73aeba72,City of Tallinn,2023-01-10T09:29:38.070Z,baedaa43-d57d-44ac-a6b2-013bb65e9362,ZZZ,Estonia,ee,104643081368364,City of Tallinn,Facebook
 6ad50eef-493a-4d8f-aa41-44a8e5a1e961,Cleantech Estonia,2023-01-10T09:29:38.057Z,fbbf56a7-1a0f-4c1f-8910-a72844eb6140,ZZZ,Estonia,ee,1669480636672455,Cleantech Estonia,Facebook
 842b28d5-563c-490d-9e86-e8b2ea7cc6bb,Diplomaatia,2023-02-07T15:05:01.901Z,2e5a46b2-4578-432a-b6c3-d6af112b3ffc,ZZZ,Estonia,ee,197121006967212,Diplomaatia,Facebook
+60d19e19-cfcd-4e7b-8642-da0ef2aec9fe,Unilever Food Solutions Eesti,2023-02-17T10:51:55.901Z,e3fec320-950b-4fc9-93dd-889e2b90d0d2,ZZZ,Estonia,ee,212158989217121,Unilever Food Solutions Eesti,Facebook
 164ea1b7-010b-4141-b732-bcc9500d96fa,Hea Kodanik,2023-02-07T15:05:01.605Z,a4edd69e-180a-417c-ab1d-e1f90dd1fb31,ZZZ,Estonia,ee,117894428230481,Hea Kodanik,Facebook
+3ee07904-44a1-405a-bc91-98f3525245e3,Maserati Tallinn,2023-02-17T10:51:55.861Z,2aef4a7c-338f-4b6b-aa82-137e596139c8,ZZZ,Estonia,ee,101060382551091,Maserati Tallinn,Facebook
 025075d4-ec87-4933-a505-fd63cf50a948,Eesti Tööandjate Keskliit,2023-02-07T15:05:01.827Z,4970d21b-69f3-433f-81e0-6db587646510,ZZZ,Estonia,ee,111405828926680,Eesti Tööandjate Keskliit,Facebook
 a4c12c10-c984-477c-9fbd-d7a529c637f9,Tallinn - Euroopa roheline pealinn 2023,2023-02-07T15:05:01.123Z,b4360e8d-768f-4c93-a607-f2edf1c11d5d,ZZZ,Estonia,ee,109794394988617,Tallinn - Euroopa roheline pealinn 2023,Facebook
+ac5de8e7-ed40-4588-ac5d-41fd9a9ac2ee,Tavid - Kuld & Valuuta,2023-02-17T10:51:55.852Z,c0353b75-4d45-4b87-88e0-c5b3cab97250,ZZZ,Estonia,ee,140994463630,Tavid - Kuld & Valuuta,Facebook
 e19fcf40-b583-4978-be12-4da26adfef84,IMF in Russian,2023-02-07T15:05:01.970Z,2304bffe-9ed5-4800-893b-417e86469809,ZZZ,Estonia,ee,100179702009328,IMF in Russian,Facebook
+70c1b604-8191-42b5-af59-f61f0618856f,Open Knowledge Estonia,2023-02-07T15:05:01.311Z,cda43239-f4ec-43bf-9a7c-3707bd8783f0,ZZZ,Estonia,ee,114808629010955,Open Knowledge Estonia,Facebook
 de43e589-f7a3-43ed-8fa7-2308f5da8f6a,Kriisiuuringute Keskus / Crisis Research Centre,2023-02-07T15:05:01.827Z,26604cbe-ec92-4ada-be47-d6702bca158a,ZZZ,Estonia,ee,110926151668637,Kriisiuuringute Keskus / Crisis Research Centre,Facebook
+c14ece3e-7ef7-4571-8b7f-7d128b825f0c,Eesti Noorte Teaduste Akadeemia / Estonian Young Academy of Sciences,2023-02-08T05:55:40.663Z,0f746919-7a87-4a52-9777-e2e998c875a6,ZZZ,Estonia,ee,195091304347648,Eesti Noorte Teaduste Akadeemia / Estonian Young Academy of Sciences,Facebook
 b658d344-a42b-43c8-b24a-5033d249eb28,Infosõlm,2023-02-09T06:26:33.124Z,4225f6c4-fd43-4e52-aa4b-6d340fe344f9,ZZZ,Estonia,ee,106405134595582,Infosõlm,Facebook
 a7c68ff0-3370-4598-ba3f-50181f8d046b,Фонд «Свободная Россия»,2023-02-09T06:26:33.163Z,89fc5ecf-8acc-4e3d-887e-35ffe20b5dbf,ZZZ,Estonia,ee,388173881559203,Фонд «Свободная Россия»,Facebook
 849aef3a-d97e-4668-8177-69e18e8da11e,Bio clean,2023-02-10T10:52:13.184Z,7c1769b8-3c9b-49ce-8635-29d29a576e57,ZZZ,Estonia,ee,102211539422340,Bio clean,Facebook
@@ -533,12 +539,6 @@ a14bb131-e407-4c5b-9c9b-f7362dded90b,Üliõpilaste Selts Raimla,2023-02-13T10:52
 f41bb0cd-87b8-48c1-9f39-52650f351e2d,Amserv,2023-02-14T10:52:05.425Z,290d84b7-e1fd-47fc-a3c6-c4e6b19e9938,ZZZ,Estonia,ee,166146626781680,Amserv,Facebook
 59af4e4e-43b7-4fac-b8bb-f516f8a070d8,Orbis Digital,2023-02-14T10:52:05.503Z,bcfd1065-ca9a-4849-9fa1-1d162de02816,ZZZ,Estonia,ee,296590647444319,Orbis Digital,Facebook
 9ca53218-6ad8-4ec9-9f7b-20be428cb795,Q-Space,2023-02-16T10:52:05.364Z,bc5ddb8e-e710-481b-be8b-157eb8e0f51e,ZZZ,Estonia,ee,101609349459427,Q-Space,Facebook
-9a0f02a4-5221-428d-b9d6-9734864ee9dd,L'Oréal Group,2023-02-17T10:51:55.900Z,79f9b3ba-ad8f-4646-9e5e-f18ff51befce,ZZZ,Estonia,ee,217699811605907,L'Oréal Group,Facebook
-60d19e19-cfcd-4e7b-8642-da0ef2aec9fe,Unilever Food Solutions Eesti,2023-02-17T10:51:55.901Z,e3fec320-950b-4fc9-93dd-889e2b90d0d2,ZZZ,Estonia,ee,212158989217121,Unilever Food Solutions Eesti,Facebook
-3ee07904-44a1-405a-bc91-98f3525245e3,Maserati Tallinn,2023-02-17T10:51:55.861Z,2aef4a7c-338f-4b6b-aa82-137e596139c8,ZZZ,Estonia,ee,101060382551091,Maserati Tallinn,Facebook
-ac5de8e7-ed40-4588-ac5d-41fd9a9ac2ee,Tavid - Kuld & Valuuta,2023-02-17T10:51:55.852Z,c0353b75-4d45-4b87-88e0-c5b3cab97250,ZZZ,Estonia,ee,140994463630,Tavid - Kuld & Valuuta,Facebook
-70c1b604-8191-42b5-af59-f61f0618856f,Open Knowledge Estonia,2023-02-07T15:05:01.311Z,cda43239-f4ec-43bf-9a7c-3707bd8783f0,ZZZ,Estonia,ee,114808629010955,Open Knowledge Estonia,Facebook
-c14ece3e-7ef7-4571-8b7f-7d128b825f0c,Eesti Noorte Teaduste Akadeemia / Estonian Young Academy of Sciences,2023-02-08T05:55:40.663Z,0f746919-7a87-4a52-9777-e2e998c875a6,ZZZ,Estonia,ee,195091304347648,Eesti Noorte Teaduste Akadeemia / Estonian Young Academy of Sciences,Facebook
 cfc580b6-ca03-4f3c-ac91-ef086cc8d552,Сathouse Concert Hall,2023-02-13T10:52:15.877Z,f767a5cb-970b-45af-8aed-7c8a98914bc0,ZZZ,Estonia,ee,1588269131400304,Сathouse Concert Hall,Facebook
 c1e64545-c118-4b2f-a049-55e0ad1351f6,Moller Auto Eesti,2023-02-14T10:52:05.464Z,a12f81c2-a292-4168-b19d-c255e918b898,ZZZ,Estonia,ee,108370024990353,Moller Auto Eesti,Facebook
 dbbb865d-abf9-4964-b0bc-fab62b7e1a2e,Juura,2023-02-15T10:51:56.476Z,7842c573-e416-4210-84e0-3acac756d9bd,ZZZ,Estonia,ee,103082434377259,Juura,Facebook
